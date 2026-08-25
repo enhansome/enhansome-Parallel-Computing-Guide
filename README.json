@@ -534,10 +534,10 @@
                 "archived": false,
                 "id": 10744183,
                 "language": "Go",
-                "last_commit": "2026-08-25T06:23:52Z",
+                "last_commit": "2026-08-25T08:08:43Z",
                 "owner": "netdata",
                 "repo": "netdata",
-                "stars": 80285
+                "stars": 80286
               }
             },
             {
@@ -567,7 +567,7 @@
                 "last_commit": "2026-08-23T22:21:05Z",
                 "owner": "Netflix",
                 "repo": "atlas",
-                "stars": 3562
+                "stars": 3563
               }
             }
           ],
@@ -625,7 +625,7 @@
                 "last_commit": "2024-12-17T17:30:35Z",
                 "owner": "httpie",
                 "repo": "cli",
-                "stars": 38449
+                "stars": 38450
               }
             },
             {
@@ -734,7 +734,7 @@
                 "archived": false,
                 "id": 184341774,
                 "language": "Rust",
-                "last_commit": "2026-08-24T20:56:12Z",
+                "last_commit": "2026-08-25T08:17:49Z",
                 "owner": "cloud-hypervisor",
                 "repo": "cloud-hypervisor",
                 "stars": 6141
@@ -1045,10 +1045,10 @@
                 "archived": false,
                 "id": 108102826,
                 "language": "C++",
-                "last_commit": "2026-08-24T22:03:42Z",
+                "last_commit": "2026-08-25T07:44:03Z",
                 "owner": "carla-simulator",
                 "repo": "carla",
-                "stars": 14319
+                "stars": 14321
               }
             },
             {
@@ -1178,10 +1178,10 @@
                 "archived": false,
                 "id": 108102826,
                 "language": "C++",
-                "last_commit": "2026-08-24T22:03:42Z",
+                "last_commit": "2026-08-25T07:44:03Z",
                 "owner": "carla-simulator",
                 "repo": "carla",
-                "stars": 14319
+                "stars": 14321
               }
             },
             {
@@ -1415,7 +1415,7 @@
                 "last_commit": "2026-08-20T10:37:54Z",
                 "owner": "NVIDIA",
                 "repo": "cutlass",
-                "stars": 10294
+                "stars": 10295
               }
             },
             {
@@ -1896,7 +1896,7 @@
                 "last_commit": "2026-08-23T11:05:37Z",
                 "owner": "ocornut",
                 "repo": "imgui",
-                "stars": 75854
+                "stars": 75855
               }
             },
             {
@@ -2018,7 +2018,7 @@
                 "archived": false,
                 "id": 111860063,
                 "language": "C++",
-                "last_commit": "2026-08-25T06:29:14Z",
+                "last_commit": "2026-08-25T07:50:20Z",
                 "owner": "googleapis",
                 "repo": "google-cloud-cpp",
                 "stars": 659
@@ -2124,7 +2124,7 @@
                 "last_commit": "2026-08-25T04:52:07Z",
                 "owner": "iluwatar",
                 "repo": "java-design-patterns",
-                "stars": 94613
+                "stars": 94615
               }
             },
             {
@@ -2139,7 +2139,7 @@
                 "last_commit": "2026-08-24T05:34:22Z",
                 "owner": "ReactiveX",
                 "repo": "RxJava",
-                "stars": 48205
+                "stars": 48204
               }
             },
             {
@@ -2154,7 +2154,7 @@
                 "last_commit": "2026-08-24T21:31:37Z",
                 "owner": "google",
                 "repo": "guava",
-                "stars": 51890
+                "stars": 51887
               }
             },
             {
@@ -2264,7 +2264,7 @@
                 "last_commit": "2024-12-17T17:30:35Z",
                 "owner": "httpie",
                 "repo": "cli",
-                "stars": 38449
+                "stars": 38450
               }
             },
             {
@@ -2632,7 +2632,7 @@
                 "last_commit": "2026-06-23T05:55:43Z",
                 "owner": "JuliaLang",
                 "repo": "IJulia.jl",
-                "stars": 2896
+                "stars": 2897
               }
             },
             {
@@ -2817,7 +2817,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:36:11.612Z",
+    "last_updated": "2026-08-25T08:24:05.020Z",
     "original_repository": "mikeroyal/Parallel-Computing-Guide",
     "original_repository_id": 410658650,
     "original_repository_sha": "ee8577e1a90e67f5ff5d2e9580924cfdc6c9753f",
