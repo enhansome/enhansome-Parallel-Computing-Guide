@@ -1,756 +1,6 @@
 {
   "items": [
     {
-      "description": "Note: You can easily convert this markdown file to a PDF in VSCode using this handy extension Markdown PDF.\nDifference between Distributed Computing and Parallel Computing.\nParallel Computing is a computing environment in which two or more processors (cores, computers) work simultaneously to solve a single problem. Large problems can often be divided into smaller ones, which can then be solved at the same time. There are several different forms of parallel computing: [bit-level]https://en.wikipedia.org/wiki/Bit-level_parallelism), instruction-level, data, and task parallelism.\nAccelerated Computing - Training | NVIDIA Developer\nFundamentals of Accelerated Computing with CUDA Python Course | NVIDIA\nTop Parallel Computing Courses Online | Coursera\nTop Parallel Computing Courses Online | Udemy\nScientific Computing Masterclass: Parallel and Distributed\nLearn Parallel Computing in Python | Udemy\nGPU computing in Vulkan | Udemy\nHigh Performance Computing Courses | Udacity\nParallel Computing Courses | Stanford Online\nParallel Computing | MIT OpenCourseWare\nMultithreaded Parallelism: Languages and Compilers | MIT OpenCourseWare\nParallel Computing with CUDA | Pluralsight\nHPC Architecture and System Design | Intel",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Parallel Computing Learning Resources",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Parallel Computing Guide",
-            "homepage": null,
-            "id": 410658650,
-            "language": null,
-            "license": null,
-            "last_commit": "2021-09-26T21:50:47Z",
-            "open_issues": 1,
-            "owner": "mikeroyal",
-            "repo": "Parallel-Computing-Guide",
-            "stars": 68,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "awesome-readme",
-              "high-performance",
-              "high-performance-computing",
-              "machine-learning",
-              "parallel-computing",
-              "parallel-programming",
-              "parallelism"
-            ]
-          },
-          "first_seen": "2026-08-28T19:36:23.898Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Parallel Computing Tools, Libraries, and Frameworks",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Parallel Computing Guide",
-            "homepage": null,
-            "id": 410658650,
-            "language": null,
-            "license": null,
-            "last_commit": "2021-09-26T21:50:47Z",
-            "open_issues": 1,
-            "owner": "mikeroyal",
-            "repo": "Parallel-Computing-Guide",
-            "stars": 68,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "awesome-readme",
-              "high-performance",
-              "high-performance-computing",
-              "machine-learning",
-              "parallel-computing",
-              "parallel-programming",
-              "parallelism"
-            ]
-          },
-          "first_seen": "2026-08-28T19:36:23.898Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Apache Spark Development",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Parallel Computing Guide",
-            "homepage": null,
-            "id": 410658650,
-            "language": null,
-            "license": null,
-            "last_commit": "2021-09-26T21:50:47Z",
-            "open_issues": 1,
-            "owner": "mikeroyal",
-            "repo": "Parallel-Computing-Guide",
-            "stars": 68,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "awesome-readme",
-              "high-performance",
-              "high-performance-computing",
-              "machine-learning",
-              "parallel-computing",
-              "parallel-programming",
-              "parallelism"
-            ]
-          },
-          "first_seen": "2026-08-28T19:36:23.898Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Databases",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Parallel Computing Guide",
-            "homepage": null,
-            "id": 410658650,
-            "language": null,
-            "license": null,
-            "last_commit": "2021-09-26T21:50:47Z",
-            "open_issues": 1,
-            "owner": "mikeroyal",
-            "repo": "Parallel-Computing-Guide",
-            "stars": 68,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "awesome-readme",
-              "high-performance",
-              "high-performance-computing",
-              "machine-learning",
-              "parallel-computing",
-              "parallel-programming",
-              "parallelism"
-            ]
-          },
-          "first_seen": "2026-08-28T19:36:23.898Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Networking",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Parallel Computing Guide",
-            "homepage": null,
-            "id": 410658650,
-            "language": null,
-            "license": null,
-            "last_commit": "2021-09-26T21:50:47Z",
-            "open_issues": 1,
-            "owner": "mikeroyal",
-            "repo": "Parallel-Computing-Guide",
-            "stars": 68,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "awesome-readme",
-              "high-performance",
-              "high-performance-computing",
-              "machine-learning",
-              "parallel-computing",
-              "parallel-programming",
-              "parallelism"
-            ]
-          },
-          "first_seen": "2026-08-28T19:36:23.898Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Telco 5G Development",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Parallel Computing Guide",
-            "homepage": null,
-            "id": 410658650,
-            "language": null,
-            "license": null,
-            "last_commit": "2021-09-26T21:50:47Z",
-            "open_issues": 1,
-            "owner": "mikeroyal",
-            "repo": "Parallel-Computing-Guide",
-            "stars": 68,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "awesome-readme",
-              "high-performance",
-              "high-performance-computing",
-              "machine-learning",
-              "parallel-computing",
-              "parallel-programming",
-              "parallelism"
-            ]
-          },
-          "first_seen": "2026-08-28T19:36:23.898Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Cloud Native Development",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Parallel Computing Guide",
-            "homepage": null,
-            "id": 410658650,
-            "language": null,
-            "license": null,
-            "last_commit": "2021-09-26T21:50:47Z",
-            "open_issues": 1,
-            "owner": "mikeroyal",
-            "repo": "Parallel-Computing-Guide",
-            "stars": 68,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "awesome-readme",
-              "high-performance",
-              "high-performance-computing",
-              "machine-learning",
-              "parallel-computing",
-              "parallel-programming",
-              "parallelism"
-            ]
-          },
-          "first_seen": "2026-08-28T19:36:23.898Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Machine Learning",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Parallel Computing Guide",
-            "homepage": null,
-            "id": 410658650,
-            "language": null,
-            "license": null,
-            "last_commit": "2021-09-26T21:50:47Z",
-            "open_issues": 1,
-            "owner": "mikeroyal",
-            "repo": "Parallel-Computing-Guide",
-            "stars": 68,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "awesome-readme",
-              "high-performance",
-              "high-performance-computing",
-              "machine-learning",
-              "parallel-computing",
-              "parallel-programming",
-              "parallelism"
-            ]
-          },
-          "first_seen": "2026-08-28T19:36:23.898Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Algorithms",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Parallel Computing Guide",
-            "homepage": null,
-            "id": 410658650,
-            "language": null,
-            "license": null,
-            "last_commit": "2021-09-26T21:50:47Z",
-            "open_issues": 1,
-            "owner": "mikeroyal",
-            "repo": "Parallel-Computing-Guide",
-            "stars": 68,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "awesome-readme",
-              "high-performance",
-              "high-performance-computing",
-              "machine-learning",
-              "parallel-computing",
-              "parallel-programming",
-              "parallelism"
-            ]
-          },
-          "first_seen": "2026-08-28T19:36:23.898Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Deep Learning Development",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Parallel Computing Guide",
-            "homepage": null,
-            "id": 410658650,
-            "language": null,
-            "license": null,
-            "last_commit": "2021-09-26T21:50:47Z",
-            "open_issues": 1,
-            "owner": "mikeroyal",
-            "repo": "Parallel-Computing-Guide",
-            "stars": 68,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "awesome-readme",
-              "high-performance",
-              "high-performance-computing",
-              "machine-learning",
-              "parallel-computing",
-              "parallel-programming",
-              "parallelism"
-            ]
-          },
-          "first_seen": "2026-08-28T19:36:23.898Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Reinforcement Learning Development",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Parallel Computing Guide",
-            "homepage": null,
-            "id": 410658650,
-            "language": null,
-            "license": null,
-            "last_commit": "2021-09-26T21:50:47Z",
-            "open_issues": 1,
-            "owner": "mikeroyal",
-            "repo": "Parallel-Computing-Guide",
-            "stars": 68,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "awesome-readme",
-              "high-performance",
-              "high-performance-computing",
-              "machine-learning",
-              "parallel-computing",
-              "parallel-programming",
-              "parallelism"
-            ]
-          },
-          "first_seen": "2026-08-28T19:36:23.898Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Computer Vision Development",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Parallel Computing Guide",
-            "homepage": null,
-            "id": 410658650,
-            "language": null,
-            "license": null,
-            "last_commit": "2021-09-26T21:50:47Z",
-            "open_issues": 1,
-            "owner": "mikeroyal",
-            "repo": "Parallel-Computing-Guide",
-            "stars": 68,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "awesome-readme",
-              "high-performance",
-              "high-performance-computing",
-              "machine-learning",
-              "parallel-computing",
-              "parallel-programming",
-              "parallelism"
-            ]
-          },
-          "first_seen": "2026-08-28T19:36:23.898Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Natural Language Processing (NLP) Development",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Parallel Computing Guide",
-            "homepage": null,
-            "id": 410658650,
-            "language": null,
-            "license": null,
-            "last_commit": "2021-09-26T21:50:47Z",
-            "open_issues": 1,
-            "owner": "mikeroyal",
-            "repo": "Parallel-Computing-Guide",
-            "stars": 68,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "awesome-readme",
-              "high-performance",
-              "high-performance-computing",
-              "machine-learning",
-              "parallel-computing",
-              "parallel-programming",
-              "parallelism"
-            ]
-          },
-          "first_seen": "2026-08-28T19:36:23.898Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Bioinformatics",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Parallel Computing Guide",
-            "homepage": null,
-            "id": 410658650,
-            "language": null,
-            "license": null,
-            "last_commit": "2021-09-26T21:50:47Z",
-            "open_issues": 1,
-            "owner": "mikeroyal",
-            "repo": "Parallel-Computing-Guide",
-            "stars": 68,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "awesome-readme",
-              "high-performance",
-              "high-performance-computing",
-              "machine-learning",
-              "parallel-computing",
-              "parallel-programming",
-              "parallelism"
-            ]
-          },
-          "first_seen": "2026-08-28T19:36:23.898Z"
-        },
-        {
-          "node_type": "item",
-          "title": "CUDA Development",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Parallel Computing Guide",
-            "homepage": null,
-            "id": 410658650,
-            "language": null,
-            "license": null,
-            "last_commit": "2021-09-26T21:50:47Z",
-            "open_issues": 1,
-            "owner": "mikeroyal",
-            "repo": "Parallel-Computing-Guide",
-            "stars": 68,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "awesome-readme",
-              "high-performance",
-              "high-performance-computing",
-              "machine-learning",
-              "parallel-computing",
-              "parallel-programming",
-              "parallelism"
-            ]
-          },
-          "first_seen": "2026-08-28T19:36:23.898Z"
-        },
-        {
-          "node_type": "item",
-          "title": "MATLAB Development",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Parallel Computing Guide",
-            "homepage": null,
-            "id": 410658650,
-            "language": null,
-            "license": null,
-            "last_commit": "2021-09-26T21:50:47Z",
-            "open_issues": 1,
-            "owner": "mikeroyal",
-            "repo": "Parallel-Computing-Guide",
-            "stars": 68,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "awesome-readme",
-              "high-performance",
-              "high-performance-computing",
-              "machine-learning",
-              "parallel-computing",
-              "parallel-programming",
-              "parallelism"
-            ]
-          },
-          "first_seen": "2026-08-28T19:36:23.898Z"
-        },
-        {
-          "node_type": "item",
-          "title": "OpenCL Development",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Parallel Computing Guide",
-            "homepage": null,
-            "id": 410658650,
-            "language": null,
-            "license": null,
-            "last_commit": "2021-09-26T21:50:47Z",
-            "open_issues": 1,
-            "owner": "mikeroyal",
-            "repo": "Parallel-Computing-Guide",
-            "stars": 68,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "awesome-readme",
-              "high-performance",
-              "high-performance-computing",
-              "machine-learning",
-              "parallel-computing",
-              "parallel-programming",
-              "parallelism"
-            ]
-          },
-          "first_seen": "2026-08-28T19:36:23.898Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Vulkan Development",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Parallel Computing Guide",
-            "homepage": null,
-            "id": 410658650,
-            "language": null,
-            "license": null,
-            "last_commit": "2021-09-26T21:50:47Z",
-            "open_issues": 1,
-            "owner": "mikeroyal",
-            "repo": "Parallel-Computing-Guide",
-            "stars": 68,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "awesome-readme",
-              "high-performance",
-              "high-performance-computing",
-              "machine-learning",
-              "parallel-computing",
-              "parallel-programming",
-              "parallelism"
-            ]
-          },
-          "first_seen": "2026-08-28T19:36:23.898Z"
-        },
-        {
-          "node_type": "item",
-          "title": "C/C++ Development",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Parallel Computing Guide",
-            "homepage": null,
-            "id": 410658650,
-            "language": null,
-            "license": null,
-            "last_commit": "2021-09-26T21:50:47Z",
-            "open_issues": 1,
-            "owner": "mikeroyal",
-            "repo": "Parallel-Computing-Guide",
-            "stars": 68,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "awesome-readme",
-              "high-performance",
-              "high-performance-computing",
-              "machine-learning",
-              "parallel-computing",
-              "parallel-programming",
-              "parallelism"
-            ]
-          },
-          "first_seen": "2026-08-28T19:36:23.898Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Java Development",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Parallel Computing Guide",
-            "homepage": null,
-            "id": 410658650,
-            "language": null,
-            "license": null,
-            "last_commit": "2021-09-26T21:50:47Z",
-            "open_issues": 1,
-            "owner": "mikeroyal",
-            "repo": "Parallel-Computing-Guide",
-            "stars": 68,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "awesome-readme",
-              "high-performance",
-              "high-performance-computing",
-              "machine-learning",
-              "parallel-computing",
-              "parallel-programming",
-              "parallelism"
-            ]
-          },
-          "first_seen": "2026-08-28T19:36:23.898Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Python Development",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Parallel Computing Guide",
-            "homepage": null,
-            "id": 410658650,
-            "language": null,
-            "license": null,
-            "last_commit": "2021-09-26T21:50:47Z",
-            "open_issues": 1,
-            "owner": "mikeroyal",
-            "repo": "Parallel-Computing-Guide",
-            "stars": 68,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "awesome-readme",
-              "high-performance",
-              "high-performance-computing",
-              "machine-learning",
-              "parallel-computing",
-              "parallel-programming",
-              "parallelism"
-            ]
-          },
-          "first_seen": "2026-08-28T19:36:23.898Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Scala Development",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Parallel Computing Guide",
-            "homepage": null,
-            "id": 410658650,
-            "language": null,
-            "license": null,
-            "last_commit": "2021-09-26T21:50:47Z",
-            "open_issues": 1,
-            "owner": "mikeroyal",
-            "repo": "Parallel-Computing-Guide",
-            "stars": 68,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "awesome-readme",
-              "high-performance",
-              "high-performance-computing",
-              "machine-learning",
-              "parallel-computing",
-              "parallel-programming",
-              "parallelism"
-            ]
-          },
-          "first_seen": "2026-08-28T19:36:23.898Z"
-        },
-        {
-          "node_type": "item",
-          "title": "R Development",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Parallel Computing Guide",
-            "homepage": null,
-            "id": 410658650,
-            "language": null,
-            "license": null,
-            "last_commit": "2021-09-26T21:50:47Z",
-            "open_issues": 1,
-            "owner": "mikeroyal",
-            "repo": "Parallel-Computing-Guide",
-            "stars": 68,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "awesome-readme",
-              "high-performance",
-              "high-performance-computing",
-              "machine-learning",
-              "parallel-computing",
-              "parallel-programming",
-              "parallelism"
-            ]
-          },
-          "first_seen": "2026-08-28T19:36:23.898Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Julia Development",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Parallel Computing Guide",
-            "homepage": null,
-            "id": 410658650,
-            "language": null,
-            "license": null,
-            "last_commit": "2021-09-26T21:50:47Z",
-            "open_issues": 1,
-            "owner": "mikeroyal",
-            "repo": "Parallel-Computing-Guide",
-            "stars": 68,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "awesome-readme",
-              "high-performance",
-              "high-performance-computing",
-              "machine-learning",
-              "parallel-computing",
-              "parallel-programming",
-              "parallelism"
-            ]
-          },
-          "first_seen": "2026-08-28T19:36:23.898Z"
-        }
-      ],
-      "title": "A guide covering Parallel Computing including the applications, libraries and tools that will make you better and more efficient with Parallel Computing development."
-    },
-    {
       "description": "MATLAB Parallel Server™ is a tool that lets you scale MATLAB® programs and Simulink® simulations to clusters and clouds. You can prototype your programs and simulations on the desktop and then run them on clusters and clouds without recoding. MATLAB Parallel Server supports batch jobs, interactive parallel computations, and distributed computations with large matrices.\nParallel Computing Toolbox™ is a tool that lets you solve computationally and data-intensive problems using multicore processors, GPUs, and computer clusters. High-level constructs such as parallel for-loops, special array types, and parallelized numerical algorithms enable you to parallelize MATLAB® applications without CUDA or MPI programming. The toolbox lets you use parallel-enabled functions in MATLAB and other toolboxes. You can use the toolbox with Simulink® to run multiple simulations of a model in parallel. Programs and models can run in both interactive and batch modes.\nStatistics and Machine Learning Toolbox™ is a tool that provides functions and apps to describe, analyze, and model data. You can use descriptive statistics, visualizations, and clustering for exploratory data analysis; fit probability distributions to data; generate random numbers for Monte Carlo simulations, and perform hypothesis tests. Regression and classification algorithms let you draw inferences from data and build predictive models either interactively, using the Classification and Regression Learner apps, or programmatically, using AutoML.\nOpenMP is an API that supports multi-platform shared-memory parallel programming in C/C++ and Fortran. The OpenMP API defines a portable, scalable model with a simple and flexible interface for developing parallel applications on platforms from the desktop to the supercomputer.\nCUDA® is a parallel computing platform and programming model developed by NVIDIA for general computing on graphical processing units (GPUs). With CUDA, developers are able to dramatically speed up computing applications by harnessing the power of GPUs.\nMessage Passing Interface (MPI) is a standardized and portable message-passing standard designed to function on parallel computing architectures.\nMicrosoft MPI (MS-MPI) is a Microsoft implementation of the Message Passing Interface standard for developing and running parallel applications on the Windows platform.\nSlurm is a free open-source workload manager designed specifically to satisfy the demanding needs of high performance computing.\nPortable Batch System (PBS) Pro is a fast, powerful workload manager designed to improve productivity, optimize utilization and efficiency, and simplify administration for clusters, clouds, and supercomputers.\nAWS ParallelCluster is an AWS-supported open source cluster management tool that makes it easy for you to deploy and manage High Performance Computing (HPC) clusters on AWS. ParallelCluster uses a simple text file to model and provision all the resources needed for your HPC applications in an automated and secure manner.\nChainer is a Python-based deep learning framework aiming at flexibility. It provides automatic differentiation APIs based on the define-by-run approach (dynamic computational graphs) as well as object-oriented high-level APIs to build and train neural networks. It also supports CUDA/cuDNN using CuPy for high performance training and inference.\nXGBoost is an optimized distributed gradient boosting library designed to be highly efficient, flexible and portable. It implements machine learning algorithms under the Gradient Boosting framework. XGBoost provides a parallel tree boosting (also known as GBDT, GBM) that solve many data science problems in a fast and accurate way. It supports distributed training on multiple machines, including AWS, GCE, Azure, and Yarn clusters. Also, it can be integrated with Flink, Spark and other cloud dataflow systems.\nApache Cassandra™ is an open source NoSQL distributed database trusted by thousands of companies for scalability and high availability without compromising performance. Cassandra provides linear scalability and proven fault-tolerance on commodity hardware or cloud infrastructure make it the perfect platform for mission-critical data.\nApache Flume is a distributed, reliable, and available service for efficiently collecting, aggregating, and moving large amounts of streaming event data.\nApache Mesos is a cluster manager that provides efficient resource isolation and sharing across distributed applications, or frameworks. It can run Hadoop, Jenkins, Spark, Aurora, and other frameworks on a dynamically shared pool of nodes.\nApache HBase™ is an open-source, NoSQL, distributed big data store. It enables random, strictly consistent, real-time access to petabytes of data. HBase is very effective for handling large, sparse datasets. HBase serves as a direct input and output to the Apache MapReduce framework for Hadoop, and works with Apache Phoenix to enable SQL-like queries over HBase tables.\nHadoop Distributed File System (HDFS) is a distributed file system that handles large data sets running on commodity hardware. It is used to scale a single Apache Hadoop cluster to hundreds (and even thousands) of nodes. HDFS is one of the major components of Apache Hadoop, the others being MapReduce and YARN.\nApache Arrow is a language-independent columnar memory format for flat and hierarchical data, organized for efficient analytic operations on modern hardware like CPUs and GPUs.\nApache Spark™ is a unified analytics engine for large-scale data processing. It provides high-level APIs in Scala, Java, Python, and R, and an optimized engine that supports general computation graphs for data analysis. It also supports a rich set of higher-level tools including Spark SQL for SQL and DataFrames, MLlib for machine learning, GraphX for graph processing, and Structured Streaming for stream processing.\nApache PredictionIO is an open source machine learning framework for developers, data scientists, and end users. It supports event collection, deployment of algorithms, evaluation, querying predictive results via REST APIs. It is based on scalable open source services like Hadoop, HBase (and other DBs), Elasticsearch, Spark and implements what is called a Lambda Architecture.\nMicrosoft Project Bonsai is a low-code AI platform that speeds AI-powered automation development and part of the Autonomous Systems suite from Microsoft. Bonsai is used to build AI components that can provide operator guidance or make independent decisions to optimize process variables, improve production efficiency, and reduce downtime.\nBigDL is a distributed deep learning library for Apache Spark. With BigDL, users can write their deep learning applications as standard Spark programs, which can directly run on top of existing Spark or Hadoop clusters.\nApache Cassandra™ is an open source NoSQL distributed database trusted by thousands of companies for scalability and high availability without compromising performance. Cassandra provides linear scalability and proven fault-tolerance on commodity hardware or cloud infrastructure make it the perfect platform for mission-critical data.\nApache Flume is a distributed, reliable, and available service for efficiently collecting, aggregating, and moving large amounts of streaming event data.\nApache Mesos is a cluster manager that provides efficient resource isolation and sharing across distributed applications, or frameworks. It can run Hadoop, Jenkins, Spark, Aurora, and other frameworks on a dynamically shared pool of nodes.\nApache Beam is an open source, unified model and set of language-specific SDKs for defining and executing data processing workflows, and also data ingestion and integration flows, supporting Enterprise Integration Patterns (EIPs) and Domain Specific Languages (DSLs).\nJupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text. Jupyter is used widely in industries that do data cleaning and transformation, numerical simulation, statistical modeling, data visualization, data science, and machine learning.\nNeo4j is the only enterprise-strength graph database that combines native graph storage, advanced security, scalable speed-optimized architecture, and ACID compliance to ensure predictability and integrity of relationship-based queries.\nElasticSearch is a search engine based on the Lucene library. It provides a distributed, multitenant-capable full-text search engine with an HTTP web interface and schema-free JSON documents. Elasticsearch is developed in Java.\nLogstash is a tool for managing events and logs. When used generically, the term encompasses a larger system of log collection, processing, storage and searching activities.\nKibana is an open source data visualization plugin for Elasticsearch. It provides visualization capabilities on top of the content indexed on an Elasticsearch cluster. Users can create bar, line and scatter plots, or pie charts and maps on top of large volumes of data.\nTrino is a Distributed SQL query engine for big data. It is able to tremendously speed up ETL processes, allow them all to use standard SQL statement, and work with numerous data sources and targets all in the same system.\nExtract, transform, and load (ETL) is a data pipeline used to collect data from various sources, transform the data according to business rules, and load it into a destination data store.\nRedis(REmote DIctionary Server) is an open source (BSD licensed), in-memory data structure store, used as a database, cache, and message broker. It provides data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs, geospatial indexes, and streams.\nApache OpenNLP is an open-source library for a machine learning based toolkit used in the processing of natural language text. It features an API for use cases like Named Entity Recognition, Sentence Detection, POS(Part-Of-Speech) tagging, Tokenization Feature extraction, Chunking, Parsing, and Coreference resolution.\nApache Airflow is an open-source workflow management platform created by the community to programmatically author, schedule and monitor workflows. Install. Principles. Scalable. Airflow has a modular architecture and uses a message queue to orchestrate an arbitrary number of workers. Airflow is ready to scale to infinity.\nOpen Neural Network Exchange(ONNX) is an open ecosystem that empowers AI developers to choose the right tools as their project evolves. ONNX provides an open source format for AI models, both deep learning and traditional ML. It defines an extensible computation graph model, as well as definitions of built-in operators and standard data types.\nApache MXNet is a deep learning framework designed for both efficiency and flexibility. It allows you to mix symbolic and imperative programming to maximize efficiency and productivity. At its core, MXNet contains a dynamic dependency scheduler that automatically parallelizes both symbolic and imperative operations on the fly. A graph optimization layer on top of that makes symbolic execution fast and memory efficient. MXNet is portable and lightweight, scaling effectively to multiple GPUs and multiple machines. Support for Python, R, Julia, Scala, Go, Javascript and more.\nAutoGluon is toolkit for Deep learning that automates machine learning tasks enabling you to easily achieve strong predictive performance in your applications. With just a few lines of code, you can train and deploy high-accuracy deep learning models on tabular, image, and text data.",
       "items": [
         {
@@ -765,8 +15,8 @@
             "id": 3659275,
             "language": "Python",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-10-01T21:12:25Z",
-            "open_issues": 1817,
+            "last_commit": "2026-10-02T18:16:02Z",
+            "open_issues": 1820,
             "owner": "numba",
             "repo": "numba",
             "stars": 11169,
@@ -794,11 +44,11 @@
             "id": 152616802,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T09:07:38Z",
-            "open_issues": 807,
+            "last_commit": "2026-10-03T04:05:38Z",
+            "open_issues": 808,
             "owner": "NVIDIA",
             "repo": "cuml",
-            "stars": 5295,
+            "stars": 5296,
             "topics": [
               "cuda",
               "gpu",
@@ -825,7 +75,7 @@
             "open_issues": 522,
             "owner": "yahoo",
             "repo": "CMAK",
-            "stars": 11923,
+            "stars": 11921,
             "topics": [
               "big-data",
               "cluster-management",
@@ -909,7 +159,7 @@
                 "open_issues": 522,
                 "owner": "yahoo",
                 "repo": "CMAK",
-                "stars": 11923,
+                "stars": 11921,
                 "topics": [
                   "big-data",
                   "cluster-management",
@@ -956,7 +206,7 @@
                 "open_issues": 1175,
                 "owner": "BVLC",
                 "repo": "caffe",
-                "stars": 34549,
+                "stars": 34550,
                 "topics": [
                   "deep-learning",
                   "machine-learning",
@@ -981,7 +231,7 @@
                 "open_issues": 699,
                 "owner": "Theano",
                 "repo": "Theano",
-                "stars": 10006,
+                "stars": 10007,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:36:23.898Z"
@@ -1011,11 +261,11 @@
                 "id": 10744183,
                 "language": "Go",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-02T13:26:35Z",
-                "open_issues": 425,
+                "last_commit": "2026-10-03T00:22:25Z",
+                "open_issues": 426,
                 "owner": "netdata",
                 "repo": "netdata",
-                "stars": 80781,
+                "stars": 80780,
                 "topics": [
                   "ai",
                   "alerting",
@@ -1057,7 +307,7 @@
                 "open_issues": 2608,
                 "owner": "microsoft",
                 "repo": "azuredatastudio",
-                "stars": 7682,
+                "stars": 7680,
                 "topics": [
                   "azure",
                   "azure-data-studio",
@@ -1147,7 +397,7 @@
                 "open_issues": 6,
                 "owner": "curl",
                 "repo": "doh",
-                "stars": 431,
+                "stars": 430,
                 "topics": [
                   "dns-over-https",
                   "doh",
@@ -1215,7 +465,7 @@
                 "open_issues": 9,
                 "owner": "reorx",
                 "repo": "httpstat",
-                "stars": 6219,
+                "stars": 6218,
                 "topics": [
                   "cli",
                   "curl",
@@ -1271,7 +521,7 @@
                 "open_issues": 159,
                 "owner": "vi",
                 "repo": "websocat",
-                "stars": 8703,
+                "stars": 8704,
                 "topics": [
                   "cli",
                   "command-line",
@@ -1370,8 +620,8 @@
                 "id": 184341774,
                 "language": "Rust",
                 "license": null,
-                "last_commit": "2026-10-02T13:54:29Z",
-                "open_issues": 239,
+                "last_commit": "2026-10-02T23:59:20Z",
+                "open_issues": 243,
                 "owner": "cloud-hypervisor",
                 "repo": "cloud-hypervisor",
                 "stars": 6278,
@@ -1504,7 +754,7 @@
                 "open_issues": 1175,
                 "owner": "BVLC",
                 "repo": "caffe",
-                "stars": 34549,
+                "stars": 34550,
                 "topics": [
                   "deep-learning",
                   "machine-learning",
@@ -1529,7 +779,7 @@
                 "open_issues": 699,
                 "owner": "Theano",
                 "repo": "Theano",
-                "stars": 10006,
+                "stars": 10007,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:36:23.898Z"
@@ -1605,7 +855,7 @@
                 "open_issues": 522,
                 "owner": "yahoo",
                 "repo": "CMAK",
-                "stars": 11923,
+                "stars": 11921,
                 "topics": [
                   "big-data",
                   "cluster-management",
@@ -1648,8 +898,8 @@
                 "id": 3659275,
                 "language": "Python",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-10-01T21:12:25Z",
-                "open_issues": 1817,
+                "last_commit": "2026-10-02T18:16:02Z",
+                "open_issues": 1820,
                 "owner": "numba",
                 "repo": "numba",
                 "stars": 11169,
@@ -1677,11 +927,11 @@
                 "id": 152616802,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T09:07:38Z",
-                "open_issues": 807,
+                "last_commit": "2026-10-03T04:05:38Z",
+                "open_issues": 808,
                 "owner": "NVIDIA",
                 "repo": "cuml",
-                "stars": 5295,
+                "stars": 5296,
                 "topics": [
                   "cuda",
                   "gpu",
@@ -1742,7 +992,7 @@
                 "open_issues": 522,
                 "owner": "yahoo",
                 "repo": "CMAK",
-                "stars": 11923,
+                "stars": 11921,
                 "topics": [
                   "big-data",
                   "cluster-management",
@@ -1810,7 +1060,7 @@
                 "open_issues": 1175,
                 "owner": "BVLC",
                 "repo": "caffe",
-                "stars": 34549,
+                "stars": 34550,
                 "topics": [
                   "deep-learning",
                   "machine-learning",
@@ -1835,7 +1085,7 @@
                 "open_issues": 699,
                 "owner": "Theano",
                 "repo": "Theano",
-                "stars": 10006,
+                "stars": 10007,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:36:23.898Z"
@@ -1852,11 +1102,11 @@
                 "id": 108102826,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-02T13:41:55Z",
-                "open_issues": 1191,
+                "last_commit": "2026-10-03T00:24:39Z",
+                "open_issues": 1192,
                 "owner": "carla-simulator",
                 "repo": "carla",
-                "stars": 14452,
+                "stars": 14453,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -1950,7 +1200,7 @@
                 "open_issues": 522,
                 "owner": "yahoo",
                 "repo": "CMAK",
-                "stars": 11923,
+                "stars": 11921,
                 "topics": [
                   "big-data",
                   "cluster-management",
@@ -2018,7 +1268,7 @@
                 "open_issues": 1175,
                 "owner": "BVLC",
                 "repo": "caffe",
-                "stars": 34549,
+                "stars": 34550,
                 "topics": [
                   "deep-learning",
                   "machine-learning",
@@ -2043,7 +1293,7 @@
                 "open_issues": 699,
                 "owner": "Theano",
                 "repo": "Theano",
-                "stars": 10006,
+                "stars": 10007,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:36:23.898Z"
@@ -2060,11 +1310,11 @@
                 "id": 108102826,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-02T13:41:55Z",
-                "open_issues": 1191,
+                "last_commit": "2026-10-03T00:24:39Z",
+                "open_issues": 1192,
                 "owner": "carla-simulator",
                 "repo": "carla",
-                "stars": 14452,
+                "stars": 14453,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -2311,7 +1561,7 @@
                 "open_issues": 1175,
                 "owner": "BVLC",
                 "repo": "caffe",
-                "stars": 34549,
+                "stars": 34550,
                 "topics": [
                   "deep-learning",
                   "machine-learning",
@@ -2336,7 +1586,7 @@
                 "open_issues": 699,
                 "owner": "Theano",
                 "repo": "Theano",
-                "stars": 10006,
+                "stars": 10007,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:36:23.898Z"
@@ -2374,8 +1624,8 @@
                 "id": 3659275,
                 "language": "Python",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-10-01T21:12:25Z",
-                "open_issues": 1817,
+                "last_commit": "2026-10-02T18:16:02Z",
+                "open_issues": 1820,
                 "owner": "numba",
                 "repo": "numba",
                 "stars": 11169,
@@ -2420,7 +1670,7 @@
                 "open_issues": 0,
                 "owner": "NVIDIA",
                 "repo": "nvidia-docker",
-                "stars": 17601,
+                "stars": 17600,
                 "topics": [
                   "cuda",
                   "docker",
@@ -2443,7 +1693,7 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-23T08:49:11Z",
-                "open_issues": 777,
+                "open_issues": 776,
                 "owner": "NVIDIA",
                 "repo": "cutlass",
                 "stars": 10519,
@@ -2530,8 +1780,8 @@
                 "id": 3659275,
                 "language": "Python",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-10-01T21:12:25Z",
-                "open_issues": 1817,
+                "last_commit": "2026-10-02T18:16:02Z",
+                "open_issues": 1820,
                 "owner": "numba",
                 "repo": "numba",
                 "stars": 11169,
@@ -2559,11 +1809,11 @@
                 "id": 152616802,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T09:07:38Z",
-                "open_issues": 807,
+                "last_commit": "2026-10-03T04:05:38Z",
+                "open_issues": 808,
                 "owner": "NVIDIA",
                 "repo": "cuml",
-                "stars": 5295,
+                "stars": 5296,
                 "topics": [
                   "cuda",
                   "gpu",
@@ -2725,11 +1975,11 @@
                 "id": 47769110,
                 "language": "HTML",
                 "license": "MIT",
-                "last_commit": "2026-06-25T13:30:02Z",
-                "open_issues": 22,
+                "last_commit": "2026-10-02T15:19:53Z",
+                "open_issues": 17,
                 "owner": "piermorel",
                 "repo": "gramm",
-                "stars": 827,
+                "stars": 826,
                 "topics": [
                   "data-visualization",
                   "matlab",
@@ -2920,7 +2170,7 @@
                 "open_issues": 0,
                 "owner": "NVIDIA",
                 "repo": "nvidia-docker",
-                "stars": 17601,
+                "stars": 17600,
                 "topics": [
                   "cuda",
                   "docker",
@@ -2946,7 +2196,7 @@
             {
               "node_type": "item",
               "title": "Vulkan Documentation",
-              "description": null,
+              "description": "KhronosGroup/Vulkan-Docs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2959,7 +2209,7 @@
                 "open_issues": 391,
                 "owner": "KhronosGroup",
                 "repo": "Vulkan-Docs",
-                "stars": 3344,
+                "stars": 3345,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:36:23.898Z"
@@ -2967,7 +2217,7 @@
             {
               "node_type": "item",
               "title": "HLSL to SPIR-V Feature Mapping Manual",
-              "description": null,
+              "description": "microsoft/DirectXShaderCompiler",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2977,7 +2227,7 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-01T23:12:26Z",
-                "open_issues": 758,
+                "open_issues": 756,
                 "owner": "microsoft",
                 "repo": "DirectXShaderCompiler",
                 "stars": 3657,
@@ -2993,7 +2243,7 @@
             {
               "node_type": "item",
               "title": "Vulkan Samples",
-              "description": null,
+              "description": "KhronosGroup/Vulkan-Samples",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3061,8 +2311,8 @@
                 "id": 132043481,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T06:02:52Z",
-                "open_issues": 30,
+                "last_commit": "2026-10-02T20:06:13Z",
+                "open_issues": 28,
                 "owner": "KhronosGroup",
                 "repo": "Vulkan-Tools",
                 "stars": 496,
@@ -3084,11 +2334,11 @@
                 "id": 61292682,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-01T08:20:46Z",
-                "open_issues": 28,
+                "last_commit": "2026-10-03T00:25:10Z",
+                "open_issues": 29,
                 "owner": "KhronosGroup",
                 "repo": "Vulkan-Hpp",
-                "stars": 3799,
+                "stars": 3800,
                 "topics": [
                   "cpp",
                   "vulkan"
@@ -3108,11 +2358,11 @@
                 "id": 106558568,
                 "language": "C++",
                 "license": "Zlib",
-                "last_commit": "2026-10-01T22:35:01Z",
+                "last_commit": "2026-10-02T14:38:24Z",
                 "open_issues": 262,
                 "owner": "doitsujin",
                 "repo": "dxvk",
-                "stars": 18200,
+                "stars": 18204,
                 "topics": [
                   "d3d11",
                   "d3d9",
@@ -3213,11 +2463,11 @@
                 "id": 209527239,
                 "language": "C",
                 "license": "LGPL-2.1",
-                "last_commit": "2026-10-02T11:20:58Z",
-                "open_issues": 312,
+                "last_commit": "2026-10-02T14:41:02Z",
+                "open_issues": 313,
                 "owner": "HansKristian-Work",
                 "repo": "vkd3d-proton",
-                "stars": 2988,
+                "stars": 2987,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:36:23.898Z"
@@ -3235,10 +2485,10 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-10-02T12:22:56Z",
-                "open_issues": 1227,
+                "open_issues": 1228,
                 "owner": "ocornut",
                 "repo": "imgui",
-                "stars": 76462,
+                "stars": 76469,
                 "topics": [
                   "api",
                   "cplusplus",
@@ -3275,7 +2525,7 @@
                 "open_issues": 79,
                 "owner": "ash-rs",
                 "repo": "ash",
-                "stars": 2352,
+                "stars": 2354,
                 "topics": [
                   "gamedev",
                   "rust",
@@ -3360,7 +2610,7 @@
             {
               "node_type": "item",
               "title": "C++ Core Guidelines",
-              "description": null,
+              "description": "isocpp/CppCoreGuidelines",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3373,7 +2623,7 @@
                 "open_issues": 246,
                 "owner": "isocpp",
                 "repo": "CppCoreGuidelines",
-                "stars": 45351,
+                "stars": 45353,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:36:23.898Z"
@@ -3388,7 +2638,7 @@
             {
               "node_type": "item",
               "title": "Azure SDK for C++",
-              "description": null,
+              "description": "Azure/azure-sdk-for-cpp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3397,11 +2647,11 @@
                 "id": 233147271,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-01T23:19:08Z",
-                "open_issues": 157,
+                "last_commit": "2026-10-02T23:19:49Z",
+                "open_issues": 156,
                 "owner": "Azure",
                 "repo": "azure-sdk-for-cpp",
-                "stars": 207,
+                "stars": 206,
                 "topics": [
                   "azure",
                   "azure-sdk",
@@ -3414,7 +2664,7 @@
             {
               "node_type": "item",
               "title": "Azure SDK for C",
-              "description": null,
+              "description": "Azure/azure-sdk-for-c",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -3427,7 +2677,7 @@
                 "open_issues": 2,
                 "owner": "Azure",
                 "repo": "azure-sdk-for-c",
-                "stars": 242,
+                "stars": 241,
                 "topics": [
                   "azure",
                   "azure-sdk",
@@ -3442,7 +2692,7 @@
             {
               "node_type": "item",
               "title": "C++ Client Libraries for Google Cloud Services",
-              "description": null,
+              "description": "googleapis/google-cloud-cpp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3451,8 +2701,8 @@
                 "id": 111860063,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T14:08:03Z",
-                "open_issues": 201,
+                "last_commit": "2026-10-03T03:26:23Z",
+                "open_issues": 203,
                 "owner": "googleapis",
                 "repo": "google-cloud-cpp",
                 "stars": 658,
@@ -3487,11 +2737,11 @@
                 "id": 68312233,
                 "language": "CMake",
                 "license": "MIT",
-                "last_commit": "2026-10-02T10:08:37Z",
-                "open_issues": 1104,
+                "last_commit": "2026-10-03T01:56:12Z",
+                "open_issues": 1092,
                 "owner": "microsoft",
                 "repo": "vcpkg",
-                "stars": 27512,
+                "stars": 27513,
                 "topics": [
                   "c",
                   "cmake",
@@ -3523,7 +2773,7 @@
                 "open_issues": 346,
                 "owner": "mono",
                 "repo": "CppSharp",
-                "stars": 3401,
+                "stars": 3399,
                 "topics": [
                   "bindings",
                   "bridge",
@@ -3628,11 +2878,11 @@
                 "id": 26038648,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-30T23:01:32Z",
+                "last_commit": "2026-10-02T18:58:12Z",
                 "open_issues": 54,
                 "owner": "gabime",
                 "repo": "spdlog",
-                "stars": 29647,
+                "stars": 29650,
                 "topics": [
                   "cpp",
                   "cpp11",
@@ -3672,7 +2922,7 @@
                 "open_issues": 133,
                 "owner": "iluwatar",
                 "repo": "java-design-patterns",
-                "stars": 94757,
+                "stars": 94756,
                 "topics": [
                   "awesome-list",
                   "design-patterns",
@@ -3724,7 +2974,7 @@
                 "id": 20300177,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-01T17:41:48Z",
+                "last_commit": "2026-10-03T03:17:40Z",
                 "open_issues": 748,
                 "owner": "google",
                 "repo": "guava",
@@ -3752,7 +3002,7 @@
                 "open_issues": 2112,
                 "owner": "alibaba",
                 "repo": "fastjson",
-                "stars": 25585,
+                "stars": 25584,
                 "topics": [
                   "android",
                   "best-performance",
@@ -3784,7 +3034,7 @@
             {
               "node_type": "item",
               "title": "The Python Open Source Computer Science Degree by Forrest Knight",
-              "description": null,
+              "description": "ForrestKnight/open-source-cs-python",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3827,7 +3077,7 @@
                 "open_issues": 24,
                 "owner": "microsoft",
                 "repo": "pylance-release",
-                "stars": 2124,
+                "stars": 2123,
                 "topics": [
                   "code-analysis",
                   "language-server",
@@ -3849,11 +3099,11 @@
                 "id": 175129788,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T12:46:25Z",
-                "open_issues": 328,
+                "last_commit": "2026-10-02T23:31:30Z",
+                "open_issues": 331,
                 "owner": "microsoft",
                 "repo": "pyright",
-                "stars": 15670,
+                "stars": 15671,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:36:23.898Z"
@@ -3874,7 +3124,7 @@
                 "open_issues": 501,
                 "owner": "aws",
                 "repo": "chalice",
-                "stars": 11052,
+                "stars": 11053,
                 "topics": [
                   "aws",
                   "aws-apigateway",
@@ -3948,7 +3198,7 @@
                 "open_issues": 12,
                 "owner": "pypa",
                 "repo": "pipenv",
-                "stars": 25027,
+                "stars": 25023,
                 "topics": [
                   "packaging",
                   "pip",
@@ -3975,7 +3225,7 @@
                 "open_issues": 202,
                 "owner": "google",
                 "repo": "python-fire",
-                "stars": 28224,
+                "stars": 28222,
                 "topics": [
                   "cli",
                   "python"
@@ -4026,7 +3276,7 @@
                 "open_issues": 154,
                 "owner": "sanic-org",
                 "repo": "sanic",
-                "stars": 18638,
+                "stars": 18636,
                 "topics": [
                   "api-server",
                   "asgi",
@@ -4057,7 +3307,7 @@
                 "open_issues": 415,
                 "owner": "microsoft",
                 "repo": "nni",
-                "stars": 14367,
+                "stars": 14366,
                 "topics": [
                   "automated-machine-learning",
                   "automl",
@@ -4099,7 +3349,7 @@
                 "open_issues": 178,
                 "owner": "spotify",
                 "repo": "luigi",
-                "stars": 18779,
+                "stars": 18778,
                 "topics": [
                   "hadoop",
                   "luigi",
@@ -4123,10 +3373,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-26T09:11:45Z",
-                "open_issues": 6,
+                "open_issues": 8,
                 "owner": "locustio",
                 "repo": "locust",
-                "stars": 28196,
+                "stars": 28195,
                 "topics": [
                   "benchmarking",
                   "http",
@@ -4159,7 +3409,7 @@
                 "open_issues": 248,
                 "owner": "explosion",
                 "repo": "spaCy",
-                "stars": 33934,
+                "stars": 33933,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -4198,7 +3448,7 @@
             {
               "node_type": "item",
               "title": "Databricks Scala Style Guide",
-              "description": null,
+              "description": "databricks/scala-style-guide",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4260,7 +3510,7 @@
                 "open_issues": 522,
                 "owner": "yahoo",
                 "repo": "CMAK",
-                "stars": 11923,
+                "stars": 11921,
                 "topics": [
                   "big-data",
                   "cluster-management",
@@ -4283,10 +3533,10 @@
                 "language": "Scala",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-01T20:09:44Z",
-                "open_issues": 491,
+                "open_issues": 499,
                 "owner": "playframework",
                 "repo": "playframework",
-                "stars": 12615,
+                "stars": 12614,
                 "topics": [
                   "framework",
                   "hacktoberfest",
@@ -4316,10 +3566,10 @@
                 "language": "Scala",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-02T13:54:26Z",
-                "open_issues": 1825,
+                "open_issues": 1828,
                 "owner": "scala",
                 "repo": "scala3",
-                "stars": 6309,
+                "stars": 6308,
                 "topics": [
                   "compiler",
                   "dotty",
@@ -4468,7 +3718,7 @@
             {
               "node_type": "item",
               "title": "DataFrames Tutorial using Jupyter Notebooks",
-              "description": null,
+              "description": "bkamins/Julia-DataFrames-Tutorial",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4531,7 +3781,7 @@
                 "language": "Julia",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-01T11:22:18Z",
-                "open_issues": 11,
+                "open_issues": 12,
                 "owner": "timholy",
                 "repo": "Revise.jl",
                 "stars": 1359,
@@ -4581,7 +3831,7 @@
                 "open_issues": 110,
                 "owner": "JuliaCloud",
                 "repo": "AWS.jl",
-                "stars": 166,
+                "stars": 165,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:36:23.898Z"
@@ -4648,8 +3898,8 @@
                 "id": 3933868,
                 "language": "Julia",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-24T06:34:36Z",
-                "open_issues": 111,
+                "last_commit": "2026-10-02T18:14:38Z",
+                "open_issues": 112,
                 "owner": "JuliaNLSolvers",
                 "repo": "Optim.jl",
                 "stars": 1206,
@@ -4807,51 +4057,13 @@
           "description": "JuliaPro is a free and fast way to setup Julia for individual researchers, engineers, scientists, quants, traders, economists, students and others. Julia developers can build better software quicker and easier while benefiting from Julia's unparalleled high performance. It includes 2600+ open source packages or from a curated list of 250+ JuliaPro packages. Curated packages are tested, documented and supported by Julia Computing.\nJuno is a powerful, free IDE based on Atom for the Julia language.\nProfile (Stdlib) is a module provides tools to help developers improve the performance of their code. When used, it takes measurements on running code, and produces output that helps you understand how much time is spent on individual line's.\nJuliaGPU is a Github organization created to unify the many packages for programming GPUs in Julia. With its high-level syntax and flexible compiler, Julia is well positioned to productively program hardware accelerators like GPUs without sacrificing performance.\nCUDA.jl is a package for the main programming interface for working with NVIDIA CUDA GPUs using Julia. It features a user-friendly array abstraction, a compiler for writing CUDA kernels in Julia, and wrappers for various CUDA libraries.\nJulia for VSCode is a powerful extension for the Julia language.\nJuMP.jl is a domain-specific modeling language for mathematical optimization embedded in Julia.\nJavaCall.jl is a package that allows you to call Java functions from Julia.\nKnet is the Koç University deep learning framework implemented in Julia by Deniz Yuret and collaborators. It supports GPU operation and automatic differentiation using dynamic computational graphs for models defined in plain Julia.\nDataFrames.jl is a tool for working with tabular data in Julia.\nFlux.jl is an elegant approach to machine learning. It's a 100% pure-Julia stack, and provides lightweight abstractions on top of Julia's native GPU and AD support.",
           "node_type": "group",
           "title": "Julia Tools, Libraries and Frameworks"
-        },
-        {
-          "children": [
-            {
-              "node_type": "item",
-              "title": "If would you like to contribute to this guide simply make a Pull Request",
-              "description": ".",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Parallel Computing Guide",
-                "homepage": null,
-                "id": 410658650,
-                "language": null,
-                "license": null,
-                "last_commit": "2021-09-26T21:50:47Z",
-                "open_issues": 1,
-                "owner": "mikeroyal",
-                "repo": "Parallel-Computing-Guide",
-                "stars": 68,
-                "topics": [
-                  "awesome",
-                  "awesome-list",
-                  "awesome-readme",
-                  "high-performance",
-                  "high-performance-computing",
-                  "machine-learning",
-                  "parallel-computing",
-                  "parallel-programming",
-                  "parallelism"
-                ]
-              },
-              "first_seen": "2026-08-28T19:36:23.898Z"
-            }
-          ],
-          "description": null,
-          "node_type": "group",
-          "title": "Contribute"
         }
       ],
       "title": "Julia Development"
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T14:10:04.562Z",
+    "last_updated": "2026-10-03T04:32:38.557Z",
     "original_repository_info": {
       "archived": false,
       "description": "Parallel Computing Guide",
