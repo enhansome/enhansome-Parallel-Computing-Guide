@@ -126,13 +126,13 @@
 
 [AWS ParallelCluster](https://aws.amazon.com/hpc/parallelcluster/) is an AWS-supported open source cluster management tool that makes it easy for you to deploy and manage High Performance Computing (HPC) clusters on AWS. ParallelCluster uses a simple text file to model and provision all the resources needed for your HPC applications in an automated and secure manner.
 
-[Numba](https://github.com/numba/numba) ⭐ 11,177 | 🐛 1,822 | 🌐 Python | 📅 2026-10-13 is an open source, NumPy-aware optimizing compiler for Python sponsored by Anaconda, Inc. It uses the LLVM compiler project to generate machine code from Python syntax. Numba can compile a large subset of numerically-focused Python, including many NumPy functions. Additionally, Numba has support for automatic parallelization of loops, generation of GPU-accelerated code, and creation of ufuncs and C callbacks.
+[Numba](https://github.com/numba/numba) ⭐ 11,178 | 🐛 1,821 | 🌐 Python | 📅 2026-10-15 is an open source, NumPy-aware optimizing compiler for Python sponsored by Anaconda, Inc. It uses the LLVM compiler project to generate machine code from Python syntax. Numba can compile a large subset of numerically-focused Python, including many NumPy functions. Additionally, Numba has support for automatic parallelization of loops, generation of GPU-accelerated code, and creation of ufuncs and C callbacks.
 
-[Chainer](https://chainer.org/) is a Python-based deep learning framework aiming at flexibility. It provides automatic differentiation APIs based on the define-by-run approach (dynamic computational graphs) as well as object-oriented high-level APIs to build and train neural networks. It also supports CUDA/cuDNN using [CuPy](https://github.com/cupy/cupy) ⭐ 12,366 | 🐛 670 | 🌐 Python | 📅 2026-10-13 for high performance training and inference.
+[Chainer](https://chainer.org/) is a Python-based deep learning framework aiming at flexibility. It provides automatic differentiation APIs based on the define-by-run approach (dynamic computational graphs) as well as object-oriented high-level APIs to build and train neural networks. It also supports CUDA/cuDNN using [CuPy](https://github.com/cupy/cupy) ⭐ 12,365 | 🐛 670 | 🌐 Python | 📅 2026-10-15 for high performance training and inference.
 
 [XGBoost](https://xgboost.readthedocs.io/) is an optimized distributed gradient boosting library designed to be highly efficient, flexible and portable. It implements machine learning algorithms under the Gradient Boosting framework. XGBoost provides a parallel tree boosting (also known as GBDT, GBM) that solve many data science problems in a fast and accurate way. It supports distributed training on multiple machines, including AWS, GCE, Azure, and Yarn clusters. Also, it can be integrated with Flink, Spark and other cloud dataflow systems.
 
-[cuML](https://github.com/rapidsai/cuml) ⭐ 5,305 | 🐛 806 | 🌐 Python | 📅 2026-10-14 is a suite of libraries that implement machine learning algorithms and mathematical primitives functions that share compatible APIs with other RAPIDS projects. cuML enables data scientists, researchers, and software engineers to run traditional tabular ML tasks on GPUs without going into the details of CUDA programming. In most cases, cuML's Python API matches the API from scikit-learn.
+[cuML](https://github.com/rapidsai/cuml) ⭐ 5,305 | 🐛 812 | 🌐 Python | 📅 2026-10-15 is a suite of libraries that implement machine learning algorithms and mathematical primitives functions that share compatible APIs with other RAPIDS projects. cuML enables data scientists, researchers, and software engineers to run traditional tabular ML tasks on GPUs without going into the details of CUDA programming. In most cases, cuML's Python API matches the API from scikit-learn.
 
 [Apache Cassandra™](https://cassandra.apache.org/) is an open source NoSQL distributed database trusted by thousands of companies for scalability and high availability without compromising performance. Cassandra provides linear scalability and proven fault-tolerance on commodity hardware or cloud infrastructure make it the perfect platform for mission-critical data.
 
@@ -312,9 +312,9 @@
 
 [Weka](https://www.cs.waikato.ac.nz/ml/weka/) is an open source machine learning software that can be accessed through a graphical user interface, standard terminal applications, or a Java API. It is widely used for teaching, research, and industrial applications, contains a plethora of built-in tools for standard machine learning tasks, and additionally gives transparent access to well-known toolboxes such as scikit-learn, R, and Deeplearning4j.
 
-[Caffe](https://github.com/BVLC/caffe) ⭐ 34,549 | 🐛 1,175 | 🌐 C++ | 📅 2024-07-31 is a deep learning framework made with expression, speed, and modularity in mind. It is developed by Berkeley AI Research (BAIR)/The Berkeley Vision and Learning Center (BVLC) and community contributors.
+[Caffe](https://github.com/BVLC/caffe) ⭐ 34,553 | 🐛 1,175 | 🌐 C++ | 📅 2024-07-31 is a deep learning framework made with expression, speed, and modularity in mind. It is developed by Berkeley AI Research (BAIR)/The Berkeley Vision and Learning Center (BVLC) and community contributors.
 
-[Theano](https://github.com/Theano/Theano) ⭐ 10,007 | 🐛 699 | 🌐 Python | 📅 2024-01-15 is a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently including tight integration with NumPy
+[Theano](https://github.com/Theano/Theano) ⭐ 10,008 | 🐛 699 | 🌐 Python | 📅 2024-01-15 is a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently including tight integration with NumPy
 
 # Databases
 
@@ -372,7 +372,7 @@
 
 ## SQL/NoSQL Tools and Databases
 
-[Netdata](https://github.com/netdata/netdata) ⭐ 80,933 | 🐛 448 | 🌐 Go | 📅 2026-10-14 is high-fidelity infrastructure monitoring and troubleshooting, real-time monitoring Agent collects thousands of metrics from systems, hardware, containers, and applications with zero configuration. It runs permanently on all your physical/virtual servers, containers, cloud deployments, and edge/IoT devices, and is perfectly safe to install on your systems mid-incident without any preparation.
+[Netdata](https://github.com/netdata/netdata) ⭐ 80,961 | 🐛 446 | 🌐 Go | 📅 2026-10-15 is high-fidelity infrastructure monitoring and troubleshooting, real-time monitoring Agent collects thousands of metrics from systems, hardware, containers, and applications with zero configuration. It runs permanently on all your physical/virtual servers, containers, cloud deployments, and edge/IoT devices, and is perfectly safe to install on your systems mid-incident without any preparation.
 
 [Azure Data Studio](https://github.com/Microsoft/azuredatastudio) ⚠️ Archived is an open source data management tool that enables working with SQL Server, Azure SQL DB and SQL DW from Windows, macOS and Linux.
 
@@ -444,7 +444,7 @@
 
 [InfluxDB](https://www.influxdata.com/) is an open source time series platform.  This includes APIs for storing and querying data, processing it in the background for [ETL](https://docs.microsoft.com/en-us/azure/architecture/data-guide/relational-data/etl) or monitoring and alerting purposes, user dashboards, Internet of Things sensor data, and visualizing and exploring the data and more. It also has support for processing data from [Graphite](http://graphiteapp.org/).
 
-[Atlas](https://github.com/Netflix/atlas) ⭐ 3,571 | 🐛 9 | 🌐 Scala | 📅 2026-10-01 is an in-memory dimensional [time series database](https://en.wikipedia.org/wiki/Time_series_database).
+[Atlas](https://github.com/Netflix/atlas) ⭐ 3,571 | 🐛 8 | 🌐 Scala | 📅 2026-10-14 is an in-memory dimensional [time series database](https://en.wikipedia.org/wiki/Time_series_database).
 
 [CouchbaseDB](https://www.couchbase.com/) is an open source distributed [multi-model NoSQL document-oriented database](https://en.wikipedia.org/wiki/Multi-model_database). It creates a key-value store with managed cache for sub-millisecond data operations, with purpose-built indexers for efficient queries and a powerful query engine for executing SQL queries.
 
@@ -515,11 +515,11 @@
 
 [cURL](https://curl.se/) is a computer software project providing a library and command-line tool for transferring data using various network protocols(HTTP, HTTPS, FTP, FTPS, SCP, SFTP, TFTP, DICT, TELNET, LDAP LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP or SMTPS). cURL is also used in cars, television sets, routers, printers, audio equipment, mobile phones, tablets, settop boxes, media players and is the Internet transfer engine for thousands of software applications in over ten billion installations.
 
-[cURL Fuzzer](https://github.com/curl/curl-fuzzer) ⭐ 100 | 🐛 12 | 🌐 C++ | 📅 2026-10-14 is a quality assurance testing for the curl project.
+[cURL Fuzzer](https://github.com/curl/curl-fuzzer) ⭐ 100 | 🐛 17 | 🌐 C++ | 📅 2026-10-15 is a quality assurance testing for the curl project.
 
 [DoH](https://github.com/curl/doh) ⭐ 432 | 🐛 6 | 🌐 C | 📅 2026-04-28 is a stand-alone application for DoH (DNS-over-HTTPS) name resolves and lookups.
 
-[HTTPie](https://github.com/httpie/httpie) ⭐ 38,756 | 🐛 349 | 🌐 Python | 📅 2024-12-17 is a command-line HTTP client. Its goal is to make CLI interaction with web services as human-friendly as possible. HTTPie is designed for testing, debugging, and generally interacting with APIs & HTTP servers.
+[HTTPie](https://github.com/httpie/httpie) ⭐ 38,639 | 🐛 351 | 🌐 Python | 📅 2024-12-17 is a command-line HTTP client. Its goal is to make CLI interaction with web services as human-friendly as possible. HTTPie is designed for testing, debugging, and generally interacting with APIs & HTTP servers.
 
 [HTTPStat](https://github.com/reorx/httpstat) ⭐ 6,219 | 🐛 9 | 🌐 Python | 📅 2026-04-08 is a tool that visualizes curl statistics in a simple layout.
 
@@ -647,7 +647,7 @@ Networking works by piggybacks on a number of different protocols on top of each
 
 [Hyper-V](https://docs.microsoft.com/en-us/virtualization/hyper-v-on-windows/) enables running virtualized computer systems on top of a physical host. These virtualized systems can be used and managed just as if they were physical computer systems, however they exist in virtualized and isolated environment. Special software called a hypervisor manages access between the virtual systems and the physical hardware resources. Virtualization enables quick deployment of computer systems, a way to quickly restore systems to a previously known good state, and the ability to migrate systems between physical hosts.
 
-[VirtManager](https://github.com/virt-manager/virt-manager) ⭐ 3,273 | 🐛 168 | 🌐 Python | 📅 2026-09-04 is a graphical tool for managing virtual machines via libvirt. Most usage is with QEMU/KVM virtual machines, but Xen and libvirt LXC containers are well supported. Common operations for any libvirt driver should work.
+[VirtManager](https://github.com/virt-manager/virt-manager) ⭐ 3,274 | 🐛 168 | 🌐 Python | 📅 2026-09-04 is a graphical tool for managing virtual machines via libvirt. Most usage is with QEMU/KVM virtual machines, but Xen and libvirt LXC containers are well supported. Common operations for any libvirt driver should work.
 
 [oVirt](https://www.ovirt.org) is an open-source distributed virtualization solution, designed to manage your entire enterprise infrastructure. oVirt uses the trusted KVM hypervisor and is built upon several other community projects, including libvirt, Gluster, PatternFly, and Ansible.Founded by Red Hat as a community project on which Red Hat Enterprise Virtualization is based allowing for centralized management of virtual machines, compute, storage and networking resources, from an easy-to-use web-based front-end with platform independent access.
 
@@ -661,11 +661,11 @@ Networking works by piggybacks on a number of different protocols on top of each
 
 [Apple Paravirtualized Graphics Framework](https://developer.apple.com/documentation/paravirtualizedgraphics) is a framework that implements hardware-accelerated graphics for macOS running in a virtual machine, hereafter known as the guest. The operating system provides a graphics driver that runs inside the guest, communicating with the framework in the host operating system to take advantage of Metal-accelerated graphics.
 
-[Cloud Hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) ⭐ 6,338 | 🐛 246 | 🌐 Rust | 📅 2026-10-14 is an open source Virtual Machine Monitor (VMM) that runs on top of [KVM](https://www.kernel.org/doc/Documentation/virtual/kvm/api.txt). The project focuses on exclusively running modern, cloud workloads, on top of a limited set of hardware architectures and platforms. Cloud workloads refers to those that are usually run by customers inside a cloud provider. Cloud Hypervisor is implemented in [Rust](https://www.rust-lang.org/) and is based on the [rust-vmm](https://github.com/rust-vmm) crates.
+[Cloud Hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) ⭐ 6,351 | 🐛 244 | 🌐 Rust | 📅 2026-10-15 is an open source Virtual Machine Monitor (VMM) that runs on top of [KVM](https://www.kernel.org/doc/Documentation/virtual/kvm/api.txt). The project focuses on exclusively running modern, cloud workloads, on top of a limited set of hardware architectures and platforms. Cloud workloads refers to those that are usually run by customers inside a cloud provider. Cloud Hypervisor is implemented in [Rust](https://www.rust-lang.org/) and is based on the [rust-vmm](https://github.com/rust-vmm) crates.
 
 [VMware vSphere Hypervisor](https://www.vmware.com/products/vsphere-hypervisor.html) is a bare-metal hypervisor that virtualizes servers; allowing you to consolidate your applications while saving time and money managing your IT infrastructure.
 
-[Xen](https://github.com/xen-project/xen) ⭐ 857 | 🐛 4 | 🌐 C | 📅 2026-10-14 is focused on advancing virtualization in a number of different commercial and open source applications, including server virtualization, Infrastructure as a Services (IaaS), desktop virtualization, security applications, embedded and hardware appliances, and automotive/aviation.
+[Xen](https://github.com/xen-project/xen) ⭐ 857 | 🐛 4 | 🌐 C | 📅 2026-10-15 is focused on advancing virtualization in a number of different commercial and open source applications, including server virtualization, Infrastructure as a Services (IaaS), desktop virtualization, security applications, embedded and hardware appliances, and automotive/aviation.
 
 [Ganeti](https://github.com/ganeti/ganeti) ⭐ 587 | 🐛 331 | 🌐 Python | 📅 2026-10-02 is a virtual machine cluster management tool built on top of existing virtualization technologies such as Xen or KVM and other open source software. Once installed, the tool assumes management of the virtual instances (Xen DomU).
 
@@ -1035,9 +1035,9 @@ Networking works by piggybacks on a number of different protocols on top of each
 
 [Weka](https://www.cs.waikato.ac.nz/ml/weka/) is an open source machine learning software that can be accessed through a graphical user interface, standard terminal applications, or a Java API. It is widely used for teaching, research, and industrial applications, contains a plethora of built-in tools for standard machine learning tasks, and additionally gives transparent access to well-known toolboxes such as scikit-learn, R, and Deeplearning4j.
 
-[Caffe](https://github.com/BVLC/caffe) ⭐ 34,549 | 🐛 1,175 | 🌐 C++ | 📅 2024-07-31 is a deep learning framework made with expression, speed, and modularity in mind. It is developed by Berkeley AI Research (BAIR)/The Berkeley Vision and Learning Center (BVLC) and community contributors.
+[Caffe](https://github.com/BVLC/caffe) ⭐ 34,553 | 🐛 1,175 | 🌐 C++ | 📅 2024-07-31 is a deep learning framework made with expression, speed, and modularity in mind. It is developed by Berkeley AI Research (BAIR)/The Berkeley Vision and Learning Center (BVLC) and community contributors.
 
-[Theano](https://github.com/Theano/Theano) ⭐ 10,007 | 🐛 699 | 🌐 Python | 📅 2024-01-15 is a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently including tight integration with NumPy.
+[Theano](https://github.com/Theano/Theano) ⭐ 10,008 | 🐛 699 | 🌐 Python | 📅 2024-01-15 is a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently including tight integration with NumPy.
 
 [nGraph](https://github.com/NervanaSystems/ngraph) ⚠️ Archived is an open source C++ library, compiler and runtime for Deep Learning. The nGraph Compiler aims to accelerate developing AI workloads using any deep learning framework and deploying to a variety of hardware targets.It provides the freedom, performance, and ease-of-use to AI developers.
 
@@ -1059,13 +1059,13 @@ Networking works by piggybacks on a number of different protocols on top of each
 
 [Tensorman](https://github.com/pop-os/tensorman) ⭐ 206 | 🐛 11 | 🌐 Rust | 📅 2025-10-27 is a utility for easy management of Tensorflow containers by developed by [System76](https://system76.com).Tensorman allows Tensorflow to operate in an isolated environment that is contained from the rest of the system. This virtual environment can operate independent of the base system, allowing you to use any version of Tensorflow on any version of a Linux distribution that supports the Docker runtime.
 
-[Numba](https://github.com/numba/numba) ⭐ 11,177 | 🐛 1,822 | 🌐 Python | 📅 2026-10-13 is an open source, NumPy-aware optimizing compiler for Python sponsored by Anaconda, Inc. It uses the LLVM compiler project to generate machine code from Python syntax. Numba can compile a large subset of numerically-focused Python, including many NumPy functions. Additionally, Numba has support for automatic parallelization of loops, generation of GPU-accelerated code, and creation of ufuncs and C callbacks.
+[Numba](https://github.com/numba/numba) ⭐ 11,178 | 🐛 1,821 | 🌐 Python | 📅 2026-10-15 is an open source, NumPy-aware optimizing compiler for Python sponsored by Anaconda, Inc. It uses the LLVM compiler project to generate machine code from Python syntax. Numba can compile a large subset of numerically-focused Python, including many NumPy functions. Additionally, Numba has support for automatic parallelization of loops, generation of GPU-accelerated code, and creation of ufuncs and C callbacks.
 
-[Chainer](https://chainer.org/) is a Python-based deep learning framework aiming at flexibility. It provides automatic differentiation APIs based on the define-by-run approach (dynamic computational graphs) as well as object-oriented high-level APIs to build and train neural networks. It also supports CUDA/cuDNN using [CuPy](https://github.com/cupy/cupy) ⭐ 12,366 | 🐛 670 | 🌐 Python | 📅 2026-10-13 for high performance training and inference.
+[Chainer](https://chainer.org/) is a Python-based deep learning framework aiming at flexibility. It provides automatic differentiation APIs based on the define-by-run approach (dynamic computational graphs) as well as object-oriented high-level APIs to build and train neural networks. It also supports CUDA/cuDNN using [CuPy](https://github.com/cupy/cupy) ⭐ 12,365 | 🐛 670 | 🌐 Python | 📅 2026-10-15 for high performance training and inference.
 
 [XGBoost](https://xgboost.readthedocs.io/) is an optimized distributed gradient boosting library designed to be highly efficient, flexible and portable. It implements machine learning algorithms under the Gradient Boosting framework. XGBoost provides a parallel tree boosting (also known as GBDT, GBM) that solve many data science problems in a fast and accurate way. It supports distributed training on multiple machines, including AWS, GCE, Azure, and Yarn clusters. Also, it can be integrated with Flink, Spark and other cloud dataflow systems.
 
-[cuML](https://github.com/rapidsai/cuml) ⭐ 5,305 | 🐛 806 | 🌐 Python | 📅 2026-10-14 is a suite of libraries that implement machine learning algorithms and mathematical primitives functions that share compatible APIs with other RAPIDS projects. cuML enables data scientists, researchers, and software engineers to run traditional tabular ML tasks on GPUs without going into the details of CUDA programming. In most cases, cuML's Python API matches the API from scikit-learn.
+[cuML](https://github.com/rapidsai/cuml) ⭐ 5,305 | 🐛 812 | 🌐 Python | 📅 2026-10-15 is a suite of libraries that implement machine learning algorithms and mathematical primitives functions that share compatible APIs with other RAPIDS projects. cuML enables data scientists, researchers, and software engineers to run traditional tabular ML tasks on GPUs without going into the details of CUDA programming. In most cases, cuML's Python API matches the API from scikit-learn.
 
 # Algorithms
 
@@ -1307,15 +1307,15 @@ Networking works by piggybacks on a number of different protocols on top of each
 
 [Weka](https://www.cs.waikato.ac.nz/ml/weka/) is an open source machine learning software that can be accessed through a graphical user interface, standard terminal applications, or a Java API. It is widely used for teaching, research, and industrial applications, contains a plethora of built-in tools for standard machine learning tasks, and additionally gives transparent access to well-known toolboxes such as scikit-learn, R, and Deeplearning4j.
 
-[Caffe](https://github.com/BVLC/caffe) ⭐ 34,549 | 🐛 1,175 | 🌐 C++ | 📅 2024-07-31 is a deep learning framework made with expression, speed, and modularity in mind. It is developed by Berkeley AI Research (BAIR)/The Berkeley Vision and Learning Center (BVLC) and community contributors.
+[Caffe](https://github.com/BVLC/caffe) ⭐ 34,553 | 🐛 1,175 | 🌐 C++ | 📅 2024-07-31 is a deep learning framework made with expression, speed, and modularity in mind. It is developed by Berkeley AI Research (BAIR)/The Berkeley Vision and Learning Center (BVLC) and community contributors.
 
-[Theano](https://github.com/Theano/Theano) ⭐ 10,007 | 🐛 699 | 🌐 Python | 📅 2024-01-15 is a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently including tight integration with NumPy.
+[Theano](https://github.com/Theano/Theano) ⭐ 10,008 | 🐛 699 | 🌐 Python | 📅 2024-01-15 is a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently including tight integration with NumPy.
 
 [Microsoft Project Bonsai](https://azure.microsoft.com/en-us/services/project-bonsai/) is a low-code AI platform that speeds AI-powered automation development and part of the Autonomous Systems suite from Microsoft. Bonsai is used to build AI components that can provide operator guidance or make independent decisions to optimize process variables, improve production efficiency, and reduce downtime.
 
 [Microsoft AirSim](https://microsoft.github.io/AirSim/lidar.html) is a simulator for drones, cars and more, built on Unreal Engine (with an experimental Unity release). AirSim is open-source, cross platform, and supports [software-in-the-loop simulation](https://www.mathworks.com/help///ecoder/software-in-the-loop-sil-simulation.html) with popular flight controllers such as PX4 & ArduPilot and [hardware-in-loop](https://www.ni.com/en-us/innovations/white-papers/17/what-is-hardware-in-the-loop-.html) with PX4 for physically and visually realistic simulations. It is developed as an Unreal plugin that can simply be dropped into any Unreal environment. AirSim is being developed  as a platform for AI research to experiment with deep learning, computer vision and reinforcement learning algorithms for autonomous vehicles.
 
-[CARLA](https://github.com/carla-simulator/carla) ⭐ 14,488 | 🐛 1,204 | 🌐 C++ | 📅 2026-10-14 is an open-source simulator for autonomous driving research. CARLA has been developed from the ground up to support development, training, and validation of autonomous driving systems. In addition to open-source code and protocols, CARLA provides open digital assets (urban layouts, buildings, vehicles) that were created for this purpose and can be used freely.
+[CARLA](https://github.com/carla-simulator/carla) ⭐ 14,494 | 🐛 1,207 | 🌐 C++ | 📅 2026-10-15 is an open-source simulator for autonomous driving research. CARLA has been developed from the ground up to support development, training, and validation of autonomous driving systems. In addition to open-source code and protocols, CARLA provides open digital assets (urban layouts, buildings, vehicles) that were created for this purpose and can be used freely.
 
 [ROS/ROS2 bridge for CARLA(package)](https://github.com/carla-simulator/ros-bridge) ⭐ 646 | 🐛 186 | 🌐 Python | 📅 2026-08-16 is a bridge that enables two-way communication between ROS and CARLA. The information from the CARLA server is translated to ROS topics. In the same way, the messages sent between nodes in ROS get translated to commands to be applied in CARLA.
 
@@ -1510,15 +1510,15 @@ Networking works by piggybacks on a number of different protocols on top of each
 
 [Weka](https://www.cs.waikato.ac.nz/ml/weka/) is an open source machine learning software that can be accessed through a graphical user interface, standard terminal applications, or a Java API. It is widely used for teaching, research, and industrial applications, contains a plethora of built-in tools for standard machine learning tasks, and additionally gives transparent access to well-known toolboxes such as scikit-learn, R, and Deeplearning4j.
 
-[Caffe](https://github.com/BVLC/caffe) ⭐ 34,549 | 🐛 1,175 | 🌐 C++ | 📅 2024-07-31 is a deep learning framework made with expression, speed, and modularity in mind. It is developed by Berkeley AI Research (BAIR)/The Berkeley Vision and Learning Center (BVLC) and community contributors.
+[Caffe](https://github.com/BVLC/caffe) ⭐ 34,553 | 🐛 1,175 | 🌐 C++ | 📅 2024-07-31 is a deep learning framework made with expression, speed, and modularity in mind. It is developed by Berkeley AI Research (BAIR)/The Berkeley Vision and Learning Center (BVLC) and community contributors.
 
-[Theano](https://github.com/Theano/Theano) ⭐ 10,007 | 🐛 699 | 🌐 Python | 📅 2024-01-15 is a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently including tight integration with NumPy.
+[Theano](https://github.com/Theano/Theano) ⭐ 10,008 | 🐛 699 | 🌐 Python | 📅 2024-01-15 is a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently including tight integration with NumPy.
 
 [Microsoft Project Bonsai](https://azure.microsoft.com/en-us/services/project-bonsai/) is a low-code AI platform that speeds AI-powered automation development and part of the Autonomous Systems suite from Microsoft. Bonsai is used to build AI components that can provide operator guidance or make independent decisions to optimize process variables, improve production efficiency, and reduce downtime.
 
 [Microsoft AirSim](https://microsoft.github.io/AirSim/lidar.html) is a simulator for drones, cars and more, built on Unreal Engine (with an experimental Unity release). AirSim is open-source, cross platform, and supports [software-in-the-loop simulation](https://www.mathworks.com/help///ecoder/software-in-the-loop-sil-simulation.html) with popular flight controllers such as PX4 & ArduPilot and [hardware-in-loop](https://www.ni.com/en-us/innovations/white-papers/17/what-is-hardware-in-the-loop-.html) with PX4 for physically and visually realistic simulations. It is developed as an Unreal plugin that can simply be dropped into any Unreal environment. AirSim is being developed  as a platform for AI research to experiment with deep learning, computer vision and reinforcement learning algorithms for autonomous vehicles.
 
-[CARLA](https://github.com/carla-simulator/carla) ⭐ 14,488 | 🐛 1,204 | 🌐 C++ | 📅 2026-10-14 is an open-source simulator for autonomous driving research. CARLA has been developed from the ground up to support development, training, and validation of autonomous driving systems. In addition to open-source code and protocols, CARLA provides open digital assets (urban layouts, buildings, vehicles) that were created for this purpose and can be used freely.
+[CARLA](https://github.com/carla-simulator/carla) ⭐ 14,494 | 🐛 1,207 | 🌐 C++ | 📅 2026-10-15 is an open-source simulator for autonomous driving research. CARLA has been developed from the ground up to support development, training, and validation of autonomous driving systems. In addition to open-source code and protocols, CARLA provides open digital assets (urban layouts, buildings, vehicles) that were created for this purpose and can be used freely.
 
 [ROS/ROS2 bridge for CARLA(package)](https://github.com/carla-simulator/ros-bridge) ⭐ 646 | 🐛 186 | 🌐 Python | 📅 2026-08-16 is a bridge that enables two-way communication between ROS and CARLA. The information from the CARLA server is translated to ROS topics. In the same way, the messages sent between nodes in ROS get translated to commands to be applied in CARLA.
 
@@ -1686,7 +1686,7 @@ Networking works by piggybacks on a number of different protocols on top of each
 
 [NLPnet](https://github.com/erickrf/nlpnet) ⭐ 404 | 🐛 1 | 🌐 Python | 📅 2021-11-19 is a Python library for Natural Language Processing tasks based on neural networks. It performs part-of-speech tagging, semantic role labeling and dependency parsing.
 
-[Flair](https://github.com/flairNLP/flair) ⭐ 14,393 | 🐛 33 | 🌐 Python | 📅 2025-10-27 is a simple framework for state-of-the-art Natural Language Processing (NLP) models to your text, such as named entity recognition (NER), part-of-speech tagging (PoS), special support for biomedical data, sense disambiguation and classification, with support for a rapidly growing number of languages.
+[Flair](https://github.com/flairNLP/flair) ⭐ 14,394 | 🐛 33 | 🌐 Python | 📅 2025-10-27 is a simple framework for state-of-the-art Natural Language Processing (NLP) models to your text, such as named entity recognition (NER), part-of-speech tagging (PoS), special support for biomedical data, sense disambiguation and classification, with support for a rapidly growing number of languages.
 
 [Catalyst](https://github.com/curiosity-ai/catalyst) ⭐ 860 | 🐛 52 | 🌐 C# | 📅 2026-10-08 is a C# Natural Language Processing library built for speed. Inspired by [spaCy's design](https://spacy.io/), it brings pre-trained models, out-of-the box support for training word and document embeddings, and flexible entity recognition models.
 
@@ -1706,7 +1706,7 @@ Networking works by piggybacks on a number of different protocols on top of each
 
 [Eclipse Deeplearning4J (DL4J)](https://deeplearning4j.konduit.ai/) is a set of projects intended to support all the needs of a JVM-based(Scala, Kotlin, Clojure, and Groovy) deep learning application. This means starting with the raw data, loading and preprocessing it from wherever and whatever format it is in to building and tuning a wide variety of simple and complex deep learning networks.
 
-[Chainer](https://chainer.org/) is a Python-based deep learning framework aiming at flexibility. It provides automatic differentiation APIs based on the define-by-run approach (dynamic computational graphs) as well as object-oriented high-level APIs to build and train neural networks. It also supports CUDA/cuDNN using [CuPy](https://github.com/cupy/cupy) ⭐ 12,366 | 🐛 670 | 🌐 Python | 📅 2026-10-13 for high performance training and inference.
+[Chainer](https://chainer.org/) is a Python-based deep learning framework aiming at flexibility. It provides automatic differentiation APIs based on the define-by-run approach (dynamic computational graphs) as well as object-oriented high-level APIs to build and train neural networks. It also supports CUDA/cuDNN using [CuPy](https://github.com/cupy/cupy) ⭐ 12,365 | 🐛 670 | 🌐 Python | 📅 2026-10-15 for high performance training and inference.
 
 [Anaconda](https://www.anaconda.com/) is a very popular Data Science platform for machine learning and deep learning that enables users to develop models, train them, and deploy them.
 
@@ -1714,9 +1714,9 @@ Networking works by piggybacks on a number of different protocols on top of each
 
 [Scikit-Learn](https://scikit-learn.org/stable/index.html) is a Python module for machine learning built on top of SciPy, NumPy, and matplotlib, making it easier to apply robust and simple implementations of many popular machine learning algorithms.
 
-[Caffe](https://github.com/BVLC/caffe) ⭐ 34,549 | 🐛 1,175 | 🌐 C++ | 📅 2024-07-31 is a deep learning framework made with expression, speed, and modularity in mind. It is developed by Berkeley AI Research (BAIR)/The Berkeley Vision and Learning Center (BVLC) and community contributors.
+[Caffe](https://github.com/BVLC/caffe) ⭐ 34,553 | 🐛 1,175 | 🌐 C++ | 📅 2024-07-31 is a deep learning framework made with expression, speed, and modularity in mind. It is developed by Berkeley AI Research (BAIR)/The Berkeley Vision and Learning Center (BVLC) and community contributors.
 
-[Theano](https://github.com/Theano/Theano) ⭐ 10,007 | 🐛 699 | 🌐 Python | 📅 2024-01-15 is a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently including tight integration with NumPy.
+[Theano](https://github.com/Theano/Theano) ⭐ 10,008 | 🐛 699 | 🌐 Python | 📅 2024-01-15 is a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently including tight integration with NumPy.
 
 [Apache Spark](https://spark.apache.org/) is a unified analytics engine for large-scale data processing. It provides high-level APIs in Scala, Java, Python, and R, and an optimized engine that supports general computation graphs for data analysis. It also supports a rich set of higher-level tools including Spark SQL for SQL and DataFrames, MLlib for machine learning, GraphX for graph processing, and Structured Streaming for stream processing.
 
@@ -1730,7 +1730,7 @@ Networking works by piggybacks on a number of different protocols on top of each
 
 [BigDL](https://bigdl-project.github.io/) is a distributed deep learning library for Apache Spark. With BigDL, users can write their deep learning applications as standard Spark programs, which can directly run on top of existing Spark or Hadoop clusters.
 
-[Numba](https://github.com/numba/numba) ⭐ 11,177 | 🐛 1,822 | 🌐 Python | 📅 2026-10-13 is an open source, NumPy-aware optimizing compiler for Python sponsored by Anaconda, Inc. It uses the LLVM compiler project to generate machine code from Python syntax. Numba can compile a large subset of numerically-focused Python, including many NumPy functions. Additionally, Numba has support for automatic parallelization of loops, generation of GPU-accelerated code, and creation of ufuncs and C callbacks.
+[Numba](https://github.com/numba/numba) ⭐ 11,178 | 🐛 1,821 | 🌐 Python | 📅 2026-10-15 is an open source, NumPy-aware optimizing compiler for Python sponsored by Anaconda, Inc. It uses the LLVM compiler project to generate machine code from Python syntax. Numba can compile a large subset of numerically-focused Python, including many NumPy functions. Additionally, Numba has support for automatic parallelization of loops, generation of GPU-accelerated code, and creation of ufuncs and C callbacks.
 
 # Bioinformatics
 
@@ -1851,15 +1851,15 @@ Networking works by piggybacks on a number of different protocols on top of each
 
 [Minkowski Engine](https://nvidia.github.io/MinkowskiEngine) is an auto-differentiation library for sparse tensors. It supports all standard neural network layers such as convolution, pooling, unpooling, and broadcasting operations for sparse tensors.
 
-[CUTLASS](https://github.com/NVIDIA/cutlass) ⭐ 10,574 | 🐛 785 | 🌐 C++ | 📅 2026-10-14 is a collection of CUDA C++ template abstractions for implementing high-performance matrix-multiplication (GEMM) at all levels and scales within CUDA. It incorporates strategies for hierarchical decomposition and data movement similar to those used to implement cuBLAS.
+[CUTLASS](https://github.com/NVIDIA/cutlass) ⭐ 10,588 | 🐛 787 | 🌐 C++ | 📅 2026-10-15 is a collection of CUDA C++ template abstractions for implementing high-performance matrix-multiplication (GEMM) at all levels and scales within CUDA. It incorporates strategies for hierarchical decomposition and data movement similar to those used to implement cuBLAS.
 
 [CUB](https://github.com/NVIDIA/cub) ⚠️ Archived is a cooperative primitives for CUDA C++ kernel authors.
 
 [Tensorman](https://github.com/pop-os/tensorman) ⭐ 206 | 🐛 11 | 🌐 Rust | 📅 2025-10-27 is a utility for easy management of Tensorflow containers by developed by [System76](https://system76.com).Tensorman allows Tensorflow to operate in an isolated environment that is contained from the rest of the system. This virtual environment can operate independent of the base system, allowing you to use any version of Tensorflow on any version of a Linux distribution that supports the Docker runtime.
 
-[Numba](https://github.com/numba/numba) ⭐ 11,177 | 🐛 1,822 | 🌐 Python | 📅 2026-10-13 is an open source, NumPy-aware optimizing compiler for Python sponsored by Anaconda, Inc. It uses the LLVM compiler project to generate machine code from Python syntax. Numba can compile a large subset of numerically-focused Python, including many NumPy functions. Additionally, Numba has support for automatic parallelization of loops, generation of GPU-accelerated code, and creation of ufuncs and C callbacks.
+[Numba](https://github.com/numba/numba) ⭐ 11,178 | 🐛 1,821 | 🌐 Python | 📅 2026-10-15 is an open source, NumPy-aware optimizing compiler for Python sponsored by Anaconda, Inc. It uses the LLVM compiler project to generate machine code from Python syntax. Numba can compile a large subset of numerically-focused Python, including many NumPy functions. Additionally, Numba has support for automatic parallelization of loops, generation of GPU-accelerated code, and creation of ufuncs and C callbacks.
 
-[Chainer](https://chainer.org/) is a Python-based deep learning framework aiming at flexibility. It provides automatic differentiation APIs based on the define-by-run approach (dynamic computational graphs) as well as object-oriented high-level APIs to build and train neural networks. It also supports CUDA/cuDNN using [CuPy](https://github.com/cupy/cupy) ⭐ 12,366 | 🐛 670 | 🌐 Python | 📅 2026-10-13 for high performance training and inference.
+[Chainer](https://chainer.org/) is a Python-based deep learning framework aiming at flexibility. It provides automatic differentiation APIs based on the define-by-run approach (dynamic computational graphs) as well as object-oriented high-level APIs to build and train neural networks. It also supports CUDA/cuDNN using [CuPy](https://github.com/cupy/cupy) ⭐ 12,365 | 🐛 670 | 🌐 Python | 📅 2026-10-15 for high performance training and inference.
 
 [CuPy](https://cupy.dev/) is an implementation of NumPy-compatible multi-dimensional array on CUDA. CuPy consists of the core multi-dimensional array class, cupy.ndarray, and many functions on it. It supports a subset of numpy.ndarray interface.
 
@@ -1867,7 +1867,7 @@ Networking works by piggybacks on a number of different protocols on top of each
 
 [cuDF](https://rapids.ai/) is a GPU DataFrame library for loading, joining, aggregating, filtering, and otherwise manipulating data. cuDF provides a pandas-like API that will be familiar to data engineers & data scientists, so they can use it to easily accelerate their workflows without going into the details of CUDA programming.
 
-[cuML](https://github.com/rapidsai/cuml) ⭐ 5,305 | 🐛 806 | 🌐 Python | 📅 2026-10-14 is a suite of libraries that implement machine learning algorithms and mathematical primitives functions that share compatible APIs with other RAPIDS projects. cuML enables data scientists, researchers, and software engineers to run traditional tabular ML tasks on GPUs without going into the details of CUDA programming. In most cases, cuML's Python API matches the API from scikit-learn.
+[cuML](https://github.com/rapidsai/cuml) ⭐ 5,305 | 🐛 812 | 🌐 Python | 📅 2026-10-15 is a suite of libraries that implement machine learning algorithms and mathematical primitives functions that share compatible APIs with other RAPIDS projects. cuML enables data scientists, researchers, and software engineers to run traditional tabular ML tasks on GPUs without going into the details of CUDA programming. In most cases, cuML's Python API matches the API from scikit-learn.
 
 [ArrayFire](https://arrayfire.com/) is a general-purpose library that simplifies the process of developing software that targets parallel and massively-parallel architectures including CPUs, GPUs, and other hardware acceleration devices.
 
@@ -2076,9 +2076,9 @@ Networking works by piggybacks on a number of different protocols on top of each
 
 [Khronos Group GitHub](https://github.com/KhronosGroup)
 
-[Vulkan Documentation](https://github.com/KhronosGroup/Vulkan-Docs) ⭐ 3,351 | 🐛 394 | 🌐 JavaScript | 📅 2026-10-09
+[Vulkan Documentation](https://github.com/KhronosGroup/Vulkan-Docs) ⭐ 3,352 | 🐛 394 | 🌐 JavaScript | 📅 2026-10-09
 
-[HLSL to SPIR-V Feature Mapping Manual](https://github.com/microsoft/DirectXShaderCompiler/blob/master/docs/SPIR-V.rst) ⭐ 3,663 | 🐛 757 | 🌐 C++ | 📅 2026-10-13
+[HLSL to SPIR-V Feature Mapping Manual](https://github.com/microsoft/DirectXShaderCompiler/blob/master/docs/SPIR-V.rst) ⭐ 3,665 | 🐛 758 | 🌐 C++ | 📅 2026-10-14
 
 [Vulkan GLSL Ray Tracing Emulator Tutorial](https://www.gsn-lib.org/docs/nodes/raytracing.php)
 
@@ -2098,7 +2098,7 @@ Networking works by piggybacks on a number of different protocols on top of each
 
 [Vulkan® Tools](https://github.com/KhronosGroup/Vulkan-Tools) ⭐ 499 | 🐛 27 | 🌐 C++ | 📅 2026-10-12 is a project that provides Khronos official Vulkan Tools and Utilities for Windows, Linux, Android, and macOS.
 
-[Vulkan-Hpp](https://github.com/KhronosGroup/Vulkan-Hpp) ⭐ 3,802 | 🐛 29 | 🌐 C++ | 📅 2026-10-14 is a API that provides a header only C++ bindings for the Vulkan C API to improve the developers Vulkan experience without introducing CPU runtime cost. It adds features like type safety for enums and bitfields, STL container support, exceptions and simple enumerations.
+[Vulkan-Hpp](https://github.com/KhronosGroup/Vulkan-Hpp) ⭐ 3,802 | 🐛 28 | 🌐 C++ | 📅 2026-10-15 is a API that provides a header only C++ bindings for the Vulkan C API to improve the developers Vulkan experience without introducing CPU runtime cost. It adds features like type safety for enums and bitfields, STL container support, exceptions and simple enumerations.
 
 [Vulkan® Memory Allocator (VMA)](https://gpuopen.com/vulkan-memory-allocator/) is a  library that provides a simple and easy to integrate API to help you allocate memory for Vulkan® buffer and image storage.
 
@@ -2112,7 +2112,7 @@ Networking works by piggybacks on a number of different protocols on top of each
 
 [Radeon™ Memory Visualizer (RMV)](https://gpuopen.com/rmv/) is a tool provided by AMD for use by game engine developers. It allows engineers to examine, diagnose, and understand the GPU memory management within their projects.
 
-[DXVK](https://github.com/doitsujin/dxvk) ⭐ 18,285 | 🐛 265 | 🌐 C++ | 📅 2026-10-14 is a Vulkan-based translation layer for Direct3D 9/10/11 which allows running 3D applications on Linux using Wine.
+[DXVK](https://github.com/doitsujin/dxvk) ⭐ 18,297 | 🐛 265 | 🌐 C++ | 📅 2026-10-15 is a Vulkan-based translation layer for Direct3D 9/10/11 which allows running 3D applications on Linux using Wine.
 
 [MoltenVK](https://moltengl.com/moltenvk) is an implementation of Vulkan running on iOS and macOS using Apple's [Metal](https://developer.apple.com/metal/) graphics framework.
 
@@ -2124,13 +2124,13 @@ Networking works by piggybacks on a number of different protocols on top of each
 
 [VulkanSharp](https://github.com/mono/VulkanSharp) ⚠️ Archived is a project provides a .NET binding for the Vulkan API.
 
-[Vortice.Vulkan](https://github.com/amerkoleci/Vortice.Vulkan) ⭐ 404 | 🐛 1 | 🌐 C++ | 📅 2026-10-07 is a .NET Standard 2.0 and .NET5 low-level bindings for Vulkan API.
+[Vortice.Vulkan](https://github.com/amerkoleci/Vortice.Vulkan) ⭐ 405 | 🐛 1 | 🌐 C++ | 📅 2026-10-07 is a .NET Standard 2.0 and .NET5 low-level bindings for Vulkan API.
 
-[VKD3D-Proton](https://github.com/HansKristian-Work/vkd3d-proton) ⭐ 3,004 | 🐛 317 | 🌐 C | 📅 2026-10-14 is a fork of VKD3D, which aims to implement the full Direct3D 12 API on top of Vulkan.
+[VKD3D-Proton](https://github.com/HansKristian-Work/vkd3d-proton) ⭐ 3,005 | 🐛 318 | 🌐 C | 📅 2026-10-14 is a fork of VKD3D, which aims to implement the full Direct3D 12 API on top of Vulkan.
 
-[ImGui](https://github.com/ocornut/imgui) ⭐ 76,644 | 🐛 1,216 | 🌐 C++ | 📅 2026-10-13 is a bloat-free graphical user interface library for C++. It outputs optimized vertex buffers that you can render anytime in your 3D-pipeline enabled application. It is fast, portable, renderer agnostic and self-contained (no external dependencies).
+[ImGui](https://github.com/ocornut/imgui) ⭐ 76,661 | 🐛 1,219 | 🌐 C++ | 📅 2026-10-15 is a bloat-free graphical user interface library for C++. It outputs optimized vertex buffers that you can render anytime in your 3D-pipeline enabled application. It is fast, portable, renderer agnostic and self-contained (no external dependencies).
 
-[Ash](https://github.com/MaikKlein/ash) ⭐ 2,359 | 🐛 79 | 🌐 Rust | 📅 2026-10-06 is a very lightweight wrapper around Vulkan.
+[Ash](https://github.com/MaikKlein/ash) ⭐ 2,361 | 🐛 79 | 🌐 Rust | 📅 2026-10-06 is a very lightweight wrapper around Vulkan.
 
 [gfx-rs](https://github.com/gfx-rs/gfx) ⭐ 5,394 | 🐛 331 | 🌐 Rust | 📅 2023-02-27 is a low-level, cross-platform graphics and compute abstraction library in Rust.
 
@@ -2173,7 +2173,7 @@ Networking works by piggybacks on a number of different protocols on top of each
 
 [Chromium C++ Style Guide](https://chromium.googlesource.com/chromium/src/+/master/styleguide/c++/c++.md)
 
-[C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md) ⭐ 45,381 | 🐛 247 | 🌐 CSS | 📅 2026-10-01
+[C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md) ⭐ 45,380 | 🐛 247 | 🌐 CSS | 📅 2026-10-01
 
 [C++ Style Guide for ROS](http://wiki.ros.org/CppStyleGuide)
 
@@ -2219,17 +2219,17 @@ Networking works by piggybacks on a number of different protocols on top of each
 
 [AWS SDK for C++](https://aws.amazon.com/sdk-for-cpp/)
 
-[Azure SDK for C++](https://github.com/Azure/azure-sdk-for-cpp) ⭐ 206 | 🐛 154 | 🌐 C++ | 📅 2026-10-14
+[Azure SDK for C++](https://github.com/Azure/azure-sdk-for-cpp) ⭐ 206 | 🐛 153 | 🌐 C++ | 📅 2026-10-15
 
 [Azure SDK for C](https://github.com/Azure/azure-sdk-for-c) ⚠️ Archived
 
-[C++ Client Libraries for Google Cloud Services](https://github.com/googleapis/google-cloud-cpp) ⭐ 660 | 🐛 196 | 🌐 C++ | 📅 2026-10-14
+[C++ Client Libraries for Google Cloud Services](https://github.com/googleapis/google-cloud-cpp) ⭐ 660 | 🐛 199 | 🌐 C++ | 📅 2026-10-15
 
 [Visual Studio](https://visualstudio.microsoft.com/) is an integrated development environment (IDE) from Microsoft; which is a feature-rich application that can be used for many aspects of software development. Visual Studio makes it easy to edit, debug, build, and publish your app. By using Microsoft software development platforms such as Windows API, Windows Forms, Windows Presentation Foundation, and Windows Store.
 
 [Visual Studio Code](https://code.visualstudio.com/) is a code editor redefined and optimized for building and debugging modern web and cloud applications.
 
-[Vcpkg](https://github.com/microsoft/vcpkg) ⭐ 27,518 | 🐛 1,104 | 🌐 CMake | 📅 2026-10-14 is a C++ Library Manager for Windows, Linux, and MacOS.
+[Vcpkg](https://github.com/microsoft/vcpkg) ⭐ 27,521 | 🐛 1,102 | 🌐 CMake | 📅 2026-10-15 is a C++ Library Manager for Windows, Linux, and MacOS.
 
 [ReSharper C++](https://www.jetbrains.com/resharper-cpp/features/) is a Visual Studio Extension for C++ developers developed by JetBrains.
 
@@ -2277,11 +2277,11 @@ Networking works by piggybacks on a number of different protocols on top of each
 
 [Oat++](https://oatpp.io/) is a light and powerful C++ web framework for highly scalable and resource-efficient web application. It's zero-dependency and easy-portable.
 
-[JavaCPP](https://github.com/bytedeco/javacpp) ⭐ 4,705 | 🐛 113 | 🌐 Java | 📅 2026-08-10 is a program that provides efficient access to native C++ inside Java, not unlike the way some C/C++ compilers interact with assembly language.
+[JavaCPP](https://github.com/bytedeco/javacpp) ⭐ 4,704 | 🐛 113 | 🌐 Java | 📅 2026-08-10 is a program that provides efficient access to native C++ inside Java, not unlike the way some C/C++ compilers interact with assembly language.
 
 [Cython](https://cython.org/) is a language that makes writing C extensions for Python as easy as Python itself. Cython is based on Pyrex, but supports more cutting edge functionality and optimizations such as calling C functions and declaring C types on variables and class attributes.
 
-[Spdlog](https://github.com/gabime/spdlog) ⭐ 29,689 | 🐛 55 | 🌐 C++ | 📅 2026-10-12 is a very fast, header-only/compiled, C++ logging library.
+[Spdlog](https://github.com/gabime/spdlog) ⭐ 29,693 | 🐛 55 | 🌐 C++ | 📅 2026-10-12 is a very fast, header-only/compiled, C++ logging library.
 
 [Infer](https://fbinfer.com/) is a static analysis tool for Java, C++, Objective-C, and C. Infer is written in [OCaml](https://ocaml.org/).
 
@@ -2338,13 +2338,13 @@ Networking works by piggybacks on a number of different protocols on top of each
 
 [NetBeans](https://netbeans.org/features/java/index.html) is an IDE provides Java developers with all the tools needed to create professional desktop, mobile and enterprise applications. Creating, Editing, and Refactoring. The IDE provides wizards and templates to let you create Java EE, Java SE, and Java ME applications.
 
-[Java Design Patterns ](https://github.com/iluwatar/java-design-patterns) ⭐ 94,787 | 🐛 141 | 🌐 Java | 📅 2026-10-08 is a collection of the best formalized practices a programmer can use to solve common problems when designing an application or system.
+[Java Design Patterns ](https://github.com/iluwatar/java-design-patterns) ⭐ 94,786 | 🐛 141 | 🌐 Java | 📅 2026-10-08 is a collection of the best formalized practices a programmer can use to solve common problems when designing an application or system.
 
 [Elasticsearch](https://www.elastic.co/products/elasticsearch) is a distributed RESTful search engine built for the cloud written in Java.
 
-[RxJava](https://github.com/ReactiveX/RxJava) ⭐ 48,255 | 🐛 11 | 🌐 Java | 📅 2026-10-14 is a Java VM implementation of [Reactive Extensions](http://reactivex.io/): a library for composing asynchronous and event-based programs by using observable sequences. It extends the [observer pattern](http://en.wikipedia.org/wiki/Observer_pattern) to support sequences of data/events and adds operators that allow you to compose sequences together declaratively while abstracting away concerns about things like low-level threading, synchronization, thread-safety and concurrent data structures.
+[RxJava](https://github.com/ReactiveX/RxJava) ⭐ 48,183 | 🐛 11 | 🌐 Java | 📅 2026-10-15 is a Java VM implementation of [Reactive Extensions](http://reactivex.io/): a library for composing asynchronous and event-based programs by using observable sequences. It extends the [observer pattern](http://en.wikipedia.org/wiki/Observer_pattern) to support sequences of data/events and adds operators that allow you to compose sequences together declaratively while abstracting away concerns about things like low-level threading, synchronization, thread-safety and concurrent data structures.
 
-[Guava](https://github.com/google/guava) ⭐ 51,924 | 🐛 752 | 🌐 Java | 📅 2026-10-13 is a set of core Java libraries from Google that includes new collection types (such as multimap and multiset), immutable collections, a graph library, and utilities for concurrency, I/O, hashing, caching, primitives, strings, and more! It is widely used on most Java projects within Google, and widely used by many other companies as well.
+[Guava](https://github.com/google/guava) ⭐ 51,924 | 🐛 753 | 🌐 Java | 📅 2026-10-14 is a set of core Java libraries from Google that includes new collection types (such as multimap and multiset), immutable collections, a graph library, and utilities for concurrency, I/O, hashing, caching, primitives, strings, and more! It is widely used on most Java projects within Google, and widely used by many other companies as well.
 
 [okhttp](https://square.github.io/okhttp/) is a HTTP client for Java and Kotlin developed by Square.
 
@@ -2446,9 +2446,9 @@ Networking works by piggybacks on a number of different protocols on top of each
 
 [Python Tools for Visual Studio(PTVS)](https://microsoft.github.io/PTVS/) is a free, open source plugin that turns Visual Studio into a Python IDE. It supports editing, browsing, IntelliSense, mixed Python/C++ debugging, remote Linux/MacOS debugging, profiling, IPython, and web development with Django and other frameworks.
 
-[Pylance](https://github.com/microsoft/pylance-release) ⭐ 2,131 | 🐛 13 | 🌐 Python | 📅 2026-10-09 is an extension that works alongside Python in Visual Studio Code to provide performant language support. Under the hood, Pylance is powered by Pyright, Microsoft's static type checking tool.
+[Pylance](https://github.com/microsoft/pylance-release) ⭐ 2,132 | 🐛 15 | 🌐 Python | 📅 2026-10-14 is an extension that works alongside Python in Visual Studio Code to provide performant language support. Under the hood, Pylance is powered by Pyright, Microsoft's static type checking tool.
 
-[Pyright](https://github.com/Microsoft/pyright) ⭐ 15,680 | 🐛 349 | 🌐 Python | 📅 2026-10-14 is a fast type checker meant for large Python source bases. It can run in a “watch” mode and performs fast incremental updates when files are modified.
+[Pyright](https://github.com/Microsoft/pyright) ⭐ 15,683 | 🐛 349 | 🌐 Python | 📅 2026-10-15 is a fast type checker meant for large Python source bases. It can run in a “watch” mode and performs fast incremental updates when files are modified.
 
 [Django](https://www.djangoproject.com/) is a high-level Python Web framework that encourages rapid development and clean, pragmatic design.
 
@@ -2456,25 +2456,25 @@ Networking works by piggybacks on a number of different protocols on top of each
 
 [Web2py](http://web2py.com/) is an open-source web application framework written in Python allowing allows web developers to program dynamic web content. One web2py instance can run multiple web sites using different databases.
 
-[AWS Chalice](https://github.com/aws/chalice) ⭐ 11,058 | 🐛 502 | 🌐 Python | 📅 2026-10-14 is a framework for writing serverless apps in python. It allows you to quickly create and deploy applications that use AWS Lambda.
+[AWS Chalice](https://github.com/aws/chalice) ⭐ 11,056 | 🐛 498 | 🌐 Python | 📅 2026-10-15 is a framework for writing serverless apps in python. It allows you to quickly create and deploy applications that use AWS Lambda.
 
 [Tornado](https://www.tornadoweb.org/) is a Python web framework and asynchronous networking library. Tornado uses a non-blocking network I/O, which can scale to tens of thousands of open connections.
 
-[HTTPie](https://github.com/httpie/httpie) ⭐ 38,756 | 🐛 349 | 🌐 Python | 📅 2024-12-17 is a command line HTTP client that makes CLI interaction with web services as easy as possible. HTTPie is designed for testing, debugging, and generally interacting with APIs & HTTP servers.
+[HTTPie](https://github.com/httpie/httpie) ⭐ 38,639 | 🐛 351 | 🌐 Python | 📅 2024-12-17 is a command line HTTP client that makes CLI interaction with web services as easy as possible. HTTPie is designed for testing, debugging, and generally interacting with APIs & HTTP servers.
 
 [Scrapy](https://scrapy.org/) is a fast high-level web crawling and web scraping framework, used to crawl websites and extract structured data from their pages. It can be used for a wide range of purposes, from data mining to monitoring and automated testing.
 
 [Sentry](https://sentry.io/) is a service that helps you monitor and fix crashes in realtime. The server is in Python, but it contains a full API for sending events from any language, in any application.
 
-[Pipenv](https://github.com/pypa/pipenv) ⭐ 25,026 | 🐛 10 | 🌐 Python | 📅 2026-10-14 is a tool that aims to bring the best of all packaging worlds (bundler, composer, npm, cargo, yarn, etc.) to the Python world.
+[Pipenv](https://github.com/pypa/pipenv) ⭐ 25,024 | 🐛 9 | 🌐 Python | 📅 2026-10-14 is a tool that aims to bring the best of all packaging worlds (bundler, composer, npm, cargo, yarn, etc.) to the Python world.
 
-[Python Fire](https://github.com/google/python-fire) ⭐ 28,220 | 🐛 209 | 🌐 Python | 📅 2026-07-01 is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
+[Python Fire](https://github.com/google/python-fire) ⭐ 28,222 | 🐛 210 | 🌐 Python | 📅 2026-07-01 is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
 
 [Bottle](https://github.com/bottlepy/bottle) ⭐ 8,795 | 🐛 289 | 🌐 Python | 📅 2026-10-10 is a fast, simple and lightweight [WSGI](https://www.wsgi.org/) micro web-framework for Python. It is distributed as a single file module and has no dependencies other than the [Python Standard Library](https://docs.python.org/library/).
 
 [CherryPy](https://cherrypy.org) is a minimalist Python object-oriented HTTP web framework.
 
-[Sanic](https://github.com/huge-success/sanic) ⭐ 18,639 | 🐛 157 | 🌐 Python | 📅 2026-07-29 is a Python 3.6+ web server and web framework that's written to go fast.
+[Sanic](https://github.com/huge-success/sanic) ⭐ 18,639 | 🐛 158 | 🌐 Python | 📅 2026-07-29 is a Python 3.6+ web server and web framework that's written to go fast.
 
 [Pyramid](https://trypyramid.com) is a small and fast open source Python web framework. It makes real-world web application development and deployment more fun and more productive.
 
@@ -2486,11 +2486,11 @@ Networking works by piggybacks on a number of different protocols on top of each
 
 [Dash](https://plotly.com/dash) is a popular Python framework for building ML & data science web apps for Python, R, Julia, and Jupyter.
 
-[Luigi](https://github.com/spotify/luigi) ⭐ 18,783 | 🐛 183 | 🌐 Python | 📅 2026-10-07 is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built-in.
+[Luigi](https://github.com/spotify/luigi) ⭐ 18,783 | 🐛 183 | 🌐 Python | 📅 2026-10-14 is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built-in.
 
-[Locust](https://github.com/locustio/locust) ⭐ 28,205 | 🐛 12 | 🌐 Python | 📅 2026-10-11 is an easy to use, scriptable and scalable performance testing tool.
+[Locust](https://github.com/locustio/locust) ⭐ 28,210 | 🐛 13 | 🌐 Python | 📅 2026-10-11 is an easy to use, scriptable and scalable performance testing tool.
 
-[spaCy](https://github.com/explosion/spaCy) ⭐ 33,962 | 🐛 251 | 🌐 Python | 📅 2026-10-12 is a library for advanced Natural Language Processing in Python and Cython.
+[spaCy](https://github.com/explosion/spaCy) ⭐ 33,963 | 🐛 250 | 🌐 Python | 📅 2026-10-12 is a library for advanced Natural Language Processing in Python and Cython.
 
 [NumPy](https://www.numpy.org/) is the fundamental package needed for scientific computing with Python.
 
@@ -2563,9 +2563,9 @@ Networking works by piggybacks on a number of different protocols on top of each
 
 [Eclipse Deeplearning4J (DL4J)](https://deeplearning4j.konduit.ai/) is a set of projects intended to support all the needs of a JVM-based(Scala, Kotlin, Clojure, and Groovy) deep learning application. This means starting with the raw data, loading and preprocessing it from wherever and whatever format it is in to building and tuning a wide variety of simple and complex deep learning networks.
 
-[Play Framework](https://github.com/playframework/playframework) ⭐ 12,618 | 🐛 487 | 🌐 Scala | 📅 2026-10-14 is a web framework combines productivity and performance making it easy to build scalable web applications with Java and Scala.
+[Play Framework](https://github.com/playframework/playframework) ⭐ 12,618 | 🐛 490 | 🌐 Scala | 📅 2026-10-14 is a web framework combines productivity and performance making it easy to build scalable web applications with Java and Scala.
 
-[Dotty](https://github.com/lampepfl/dotty) ⭐ 6,318 | 🐛 1,838 | 🌐 Scala | 📅 2026-10-11 is a research compiler that will become Scala 3.
+[Dotty](https://github.com/lampepfl/dotty) ⭐ 6,320 | 🐛 1,823 | 🌐 Scala | 📅 2026-10-15 is a research compiler that will become Scala 3.
 
 [AWScala](https://github.com/seratch/AWScala) ⚠️ Archived is a tool that enables Scala developers to easily work with Amazon Web Services in the Scala way.
 
@@ -2636,9 +2636,9 @@ Networking works by piggybacks on a number of different protocols on top of each
 
 [R Host](https://github.com/microsoft/R-Host) ⚠️ Archived is a host process for R that provides access and extensibility to it remotely over WebSocket and JSON.
 
-[Rplugin](https://github.com/JetBrains/Rplugin) ⭐ 70 | 🐛 2 | 🌐 Kotlin | 📅 2026-10-14 is R Language supported plugin for the IntelliJ IDE.
+[Rplugin](https://github.com/JetBrains/Rplugin) ⭐ 70 | 🐛 2 | 🌐 Kotlin | 📅 2026-10-15 is R Language supported plugin for the IntelliJ IDE.
 
-[Plotly](https://plotly-r.com/) is an R package for creating interactive web graphics via the open source JavaScript graphing library [plotly.js](https://github.com/plotly/plotly.js) ⭐ 18,362 | 🐛 804 | 🌐 JavaScript | 📅 2026-10-14.
+[Plotly](https://plotly-r.com/) is an R package for creating interactive web graphics via the open source JavaScript graphing library [plotly.js](https://github.com/plotly/plotly.js) ⭐ 18,362 | 🐛 805 | 🌐 JavaScript | 📅 2026-10-14.
 
 [Metaflow](https://metaflow.org/) is a Python/R library that helps scientists and engineers build and manage real-life data science projects. Metaflow was originally developed at Netflix to boost productivity of data scientists who work on a wide variety of projects from classical statistics to state-of-the-art deep learning.
 
@@ -2650,7 +2650,7 @@ Networking works by piggybacks on a number of different protocols on top of each
 
 [MLR](https://mlr.mlr-org.com/) is Machine Learning in R.
 
-[ML workspace](https://github.com/ml-tooling/ml-workspace) ⭐ 3,547 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-07-26 is an all-in-one web-based IDE specialized for machine learning and data science. It is simple to deploy and gets you started within minutes to productively built ML solutions on your own machines. ML workspace is the ultimate tool for developers preloaded with a variety of popular data science libraries (Tensorflow, PyTorch, Keras, and MXnet) and dev tools (Jupyter, VS Code, and Tensorboard) perfectly configured, optimized, and integrated.
+[ML workspace](https://github.com/ml-tooling/ml-workspace) ⭐ 3,548 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-07-26 is an all-in-one web-based IDE specialized for machine learning and data science. It is simple to deploy and gets you started within minutes to productively built ML solutions on your own machines. ML workspace is the ultimate tool for developers preloaded with a variety of popular data science libraries (Tensorflow, PyTorch, Keras, and MXnet) and dev tools (Jupyter, VS Code, and Tensorboard) perfectly configured, optimized, and integrated.
 
 [CatBoost](https://catboost.ai/) is a fast, scalable, high performance Gradient Boosting on Decision Trees library, used for ranking, classification, regression and other machine learning tasks for Python, R, Java, C++. Supports computation on CPU and GPU.
 
@@ -2729,7 +2729,7 @@ Networking works by piggybacks on a number of different protocols on top of each
 
 [Optim.jl](https://github.com/JuliaNLSolvers/Optim.jl) ⭐ 1,206 | 🐛 113 | 🌐 Julia | 📅 2026-10-13 is a univariate and multivariate optimization in Julia.
 
-[RCall.jl](https://github.com/JuliaInterop/RCall.jl) ⭐ 338 | 🐛 48 | 🌐 Julia | 📅 2026-10-13 is a package that allows you to call R functions from Julia.
+[RCall.jl](https://github.com/JuliaInterop/RCall.jl) ⭐ 338 | 🐛 52 | 🌐 Julia | 📅 2026-10-14 is a package that allows you to call R functions from Julia.
 
 [JavaCall.jl](http://juliainterop.github.io/JavaCall.jl) is a package that allows you to call Java functions from Julia.
 
@@ -2739,7 +2739,7 @@ Networking works by piggybacks on a number of different protocols on top of each
 
 [Knet](https://denizyuret.github.io/Knet.jl/latest) is the [Koç University deep](http://www.ku.edu.tr/en) learning framework implemented in Julia by [Deniz Yuret](https://www.denizyuret.com/) and collaborators. It supports GPU operation and automatic differentiation using dynamic computational graphs for models defined in plain Julia.
 
-[Distributions.jl](https://github.com/JuliaStats/Distributions.jl) ⭐ 1,204 | 🐛 480 | 🌐 Julia | 📅 2026-09-22 is a Julia package for probability distributions and associated functions.
+[Distributions.jl](https://github.com/JuliaStats/Distributions.jl) ⭐ 1,204 | 🐛 481 | 🌐 Julia | 📅 2026-09-22 is a Julia package for probability distributions and associated functions.
 
 [DataFrames.jl](http://juliadata.github.io/DataFrames.jl/stable/) is a tool for working with tabular data in Julia.
 
@@ -2761,4 +2761,4 @@ Distributed under the [Creative Commons Attribution 4.0 International (CC BY 4.0
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
